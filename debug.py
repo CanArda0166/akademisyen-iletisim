@@ -41,7 +41,7 @@ for link in soup.find_all("a", href=profil_pattern):
     print(f"ISIM: {isim}")
     print(f"KONTEYNER TAG: {kap.name if kap else 'None'}, CLASS: {kap.get('class') if kap else ''}")
     print("--- HAM HTML (ilk 1500 karakter) ---")
-    print(str(kap)[:1500] if kap else "YOK")
+    print(str(kap)[:5000] if kap else "YOK")
 
     kart_sayisi += 1
     if kart_sayisi >= 3:

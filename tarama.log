@@ -1,0 +1,1633 @@
+2026-03-14 00:04:16,730 [INFO] YOK Akademik Scraper basliyor...
+2026-03-14 00:06:33,556 [INFO] Yeni CSV
+2026-03-14 00:07:43,355 [INFO] Tarama basliyor: https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:07:43,427 [INFO] Sayfa 1 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:07:43,483 [INFO] Email yok, atlanan: 2
+2026-03-14 00:07:43,485 [INFO] 18 kayit yazildi (toplam: 18)
+2026-03-14 00:07:52,409 [INFO] Sayfa 2 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:07:52,466 [INFO] Email yok, atlanan: 3
+2026-03-14 00:07:52,466 [INFO] 17 kayit yazildi (toplam: 35)
+2026-03-14 00:08:01,930 [INFO] Sayfa 3 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:08:01,988 [INFO] Email yok, atlanan: 3
+2026-03-14 00:08:01,988 [INFO] 17 kayit yazildi (toplam: 52)
+2026-03-14 00:08:09,305 [INFO] Sayfa 4 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:08:09,361 [INFO] Email yok, atlanan: 3
+2026-03-14 00:08:09,361 [INFO] 17 kayit yazildi (toplam: 69)
+2026-03-14 00:08:16,716 [INFO] Sayfa 5 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:08:16,758 [INFO] Email yok, atlanan: 4
+2026-03-14 00:08:16,774 [INFO] 16 kayit yazildi (toplam: 85)
+2026-03-14 00:08:24,195 [INFO] Sayfa 6 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:08:24,259 [INFO] Email yok, atlanan: 3
+2026-03-14 00:08:24,259 [INFO] 17 kayit yazildi (toplam: 102)
+2026-03-14 00:08:30,459 [INFO] Sayfa 7 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:08:30,508 [INFO] Email yok, atlanan: 4
+2026-03-14 00:08:30,508 [INFO] 16 kayit yazildi (toplam: 118)
+2026-03-14 00:08:34,722 [INFO] Sayfa 8 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:08:34,773 [INFO] Email yok, atlanan: 5
+2026-03-14 00:08:34,773 [INFO] 15 kayit yazildi (toplam: 133)
+2026-03-14 00:08:39,572 [INFO] Sayfa 9 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:08:39,626 [INFO] Email yok, atlanan: 4
+2026-03-14 00:08:39,626 [INFO] 16 kayit yazildi (toplam: 149)
+2026-03-14 00:08:46,521 [INFO] Sayfa 10 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:08:46,595 [INFO] Email yok, atlanan: 5
+2026-03-14 00:08:46,595 [INFO] 15 kayit yazildi (toplam: 164)
+2026-03-14 00:08:53,009 [INFO] Sayfa 11 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:08:53,065 [INFO] Email yok, atlanan: 2
+2026-03-14 00:08:53,065 [INFO] 18 kayit yazildi (toplam: 182)
+2026-03-14 00:08:58,811 [INFO] Sayfa 12 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:08:58,875 [INFO] Email yok, atlanan: 3
+2026-03-14 00:08:58,875 [INFO] 17 kayit yazildi (toplam: 199)
+2026-03-14 00:09:06,184 [INFO] Sayfa 13 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:09:06,227 [INFO] Email yok, atlanan: 4
+2026-03-14 00:09:06,227 [INFO] 16 kayit yazildi (toplam: 215)
+2026-03-14 00:09:13,066 [INFO] Sayfa 14 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:09:13,113 [INFO] 20 kayit yazildi (toplam: 235)
+2026-03-14 00:09:17,532 [INFO] Sayfa 15 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:09:17,607 [INFO] Email yok, atlanan: 4
+2026-03-14 00:09:17,607 [INFO] 16 kayit yazildi (toplam: 251)
+2026-03-14 00:09:26,934 [INFO] Sayfa 16 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:09:26,998 [INFO] Email yok, atlanan: 1
+2026-03-14 00:09:26,998 [INFO] 19 kayit yazildi (toplam: 270)
+2026-03-14 00:09:32,371 [INFO] Sayfa 17 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:09:32,450 [INFO] Email yok, atlanan: 2
+2026-03-14 00:09:32,450 [INFO] 18 kayit yazildi (toplam: 288)
+2026-03-14 00:09:42,004 [INFO] Sayfa 18 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:09:42,062 [INFO] Email yok, atlanan: 2
+2026-03-14 00:09:42,062 [INFO] 18 kayit yazildi (toplam: 306)
+2026-03-14 00:09:53,214 [INFO] Sayfa 19 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:09:53,272 [INFO] Email yok, atlanan: 3
+2026-03-14 00:09:53,272 [INFO] 17 kayit yazildi (toplam: 323)
+2026-03-14 00:10:03,434 [INFO] Sayfa 20 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:10:03,495 [INFO] Email yok, atlanan: 2
+2026-03-14 00:10:03,495 [INFO] 18 kayit yazildi (toplam: 341)
+2026-03-14 00:10:14,890 [INFO] Sayfa 21 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:10:14,946 [INFO] Email yok, atlanan: 1
+2026-03-14 00:10:14,946 [INFO] 19 kayit yazildi (toplam: 360)
+2026-03-14 00:10:19,392 [INFO] Sayfa 22 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:10:19,450 [INFO] Email yok, atlanan: 4
+2026-03-14 00:10:19,450 [INFO] 16 kayit yazildi (toplam: 376)
+2026-03-14 00:10:27,705 [INFO] Sayfa 23 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:10:27,753 [INFO] Email yok, atlanan: 4
+2026-03-14 00:10:27,753 [INFO] 16 kayit yazildi (toplam: 392)
+2026-03-14 00:10:34,833 [INFO] Sayfa 24 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:10:34,896 [INFO] Email yok, atlanan: 2
+2026-03-14 00:10:34,896 [INFO] 18 kayit yazildi (toplam: 410)
+2026-03-14 00:10:40,384 [INFO] Sayfa 25 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:10:40,431 [INFO] Email yok, atlanan: 4
+2026-03-14 00:10:40,431 [INFO] 16 kayit yazildi (toplam: 426)
+2026-03-14 00:10:43,710 [INFO] Sayfa 26 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:10:43,756 [INFO] Email yok, atlanan: 6
+2026-03-14 00:10:43,756 [INFO] 14 kayit yazildi (toplam: 440)
+2026-03-14 00:10:49,188 [INFO] Sayfa 27 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:10:49,252 [INFO] Email yok, atlanan: 5
+2026-03-14 00:10:49,252 [INFO] 15 kayit yazildi (toplam: 455)
+2026-03-14 00:10:53,435 [INFO] Sayfa 28 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:10:53,495 [INFO] Email yok, atlanan: 1
+2026-03-14 00:10:53,495 [INFO] 19 kayit yazildi (toplam: 474)
+2026-03-14 00:10:57,081 [INFO] Sayfa 29 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:10:57,135 [INFO] Email yok, atlanan: 8
+2026-03-14 00:10:57,135 [INFO] 12 kayit yazildi (toplam: 486)
+2026-03-14 00:11:00,771 [INFO] Sayfa 30 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:11:00,824 [INFO] Email yok, atlanan: 6
+2026-03-14 00:11:00,824 [INFO] 14 kayit yazildi (toplam: 500)
+2026-03-14 00:11:04,529 [INFO] Sayfa 31 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:11:04,608 [INFO] Email yok, atlanan: 4
+2026-03-14 00:11:04,608 [INFO] 16 kayit yazildi (toplam: 516)
+2026-03-14 00:11:11,327 [INFO] Sayfa 32 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:11:11,390 [INFO] Email yok, atlanan: 4
+2026-03-14 00:11:11,390 [INFO] 16 kayit yazildi (toplam: 532)
+2026-03-14 00:11:15,629 [INFO] Sayfa 33 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:11:15,690 [INFO] Email yok, atlanan: 2
+2026-03-14 00:11:15,690 [INFO] 18 kayit yazildi (toplam: 550)
+2026-03-14 00:11:23,466 [INFO] Sayfa 34 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:11:23,514 [INFO] Email yok, atlanan: 1
+2026-03-14 00:11:23,514 [INFO] 19 kayit yazildi (toplam: 569)
+2026-03-14 00:11:28,267 [INFO] Sayfa 35 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:11:28,315 [INFO] Email yok, atlanan: 8
+2026-03-14 00:11:28,315 [INFO] 12 kayit yazildi (toplam: 581)
+2026-03-14 00:11:33,056 [INFO] Sayfa 36 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:11:33,121 [INFO] Email yok, atlanan: 7
+2026-03-14 00:11:33,121 [INFO] 13 kayit yazildi (toplam: 594)
+2026-03-14 00:11:41,057 [INFO] Sayfa 37 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:11:41,120 [INFO] Email yok, atlanan: 3
+2026-03-14 00:11:41,120 [INFO] 17 kayit yazildi (toplam: 611)
+2026-03-14 00:11:47,556 [INFO] Sayfa 38 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:11:47,637 [INFO] Email yok, atlanan: 5
+2026-03-14 00:11:47,637 [INFO] 15 kayit yazildi (toplam: 626)
+2026-03-14 00:11:53,877 [INFO] Sayfa 39 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:11:53,934 [INFO] Email yok, atlanan: 6
+2026-03-14 00:11:53,934 [INFO] 14 kayit yazildi (toplam: 640)
+2026-03-14 00:11:58,112 [INFO] Sayfa 40 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:11:58,175 [INFO] Email yok, atlanan: 7
+2026-03-14 00:11:58,175 [INFO] 13 kayit yazildi (toplam: 653)
+2026-03-14 00:12:02,353 [INFO] Sayfa 41 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:12:02,406 [INFO] Email yok, atlanan: 5
+2026-03-14 00:12:02,406 [INFO] 15 kayit yazildi (toplam: 668)
+2026-03-14 00:12:07,967 [INFO] Sayfa 42 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:12:08,015 [INFO] Email yok, atlanan: 6
+2026-03-14 00:12:08,015 [INFO] 14 kayit yazildi (toplam: 682)
+2026-03-14 00:12:17,484 [INFO] Sayfa 43 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:12:17,532 [INFO] Email yok, atlanan: 8
+2026-03-14 00:12:17,532 [INFO] 12 kayit yazildi (toplam: 694)
+2026-03-14 00:12:21,364 [INFO] Sayfa 44 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:12:21,418 [INFO] Email yok, atlanan: 7
+2026-03-14 00:12:21,418 [INFO] 13 kayit yazildi (toplam: 707)
+2026-03-14 00:12:30,404 [INFO] Sayfa 45 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:12:30,461 [INFO] Email yok, atlanan: 8
+2026-03-14 00:12:30,461 [INFO] 12 kayit yazildi (toplam: 719)
+2026-03-14 00:12:42,510 [INFO] Sayfa 46 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:12:42,579 [INFO] Email yok, atlanan: 6
+2026-03-14 00:12:42,579 [INFO] 14 kayit yazildi (toplam: 733)
+2026-03-14 00:12:47,929 [INFO] Sayfa 47 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:12:47,993 [INFO] Email yok, atlanan: 4
+2026-03-14 00:12:47,994 [INFO] 16 kayit yazildi (toplam: 749)
+2026-03-14 00:12:53,410 [INFO] Sayfa 48 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:12:53,458 [INFO] Email yok, atlanan: 3
+2026-03-14 00:12:53,458 [INFO] 17 kayit yazildi (toplam: 766)
+2026-03-14 00:12:58,929 [INFO] Sayfa 49 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:12:58,992 [INFO] Email yok, atlanan: 6
+2026-03-14 00:12:58,992 [INFO] 14 kayit yazildi (toplam: 780)
+2026-03-14 00:13:07,577 [INFO] Sayfa 50 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:13:07,639 [INFO] Email yok, atlanan: 6
+2026-03-14 00:13:07,639 [INFO] 14 kayit yazildi (toplam: 794)
+2026-03-14 00:13:18,417 [INFO] Sayfa 51 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:13:18,462 [INFO] Email yok, atlanan: 7
+2026-03-14 00:13:18,462 [INFO] 13 kayit yazildi (toplam: 807)
+2026-03-14 00:13:24,722 [INFO] Sayfa 52 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:13:24,776 [INFO] Email yok, atlanan: 8
+2026-03-14 00:13:24,776 [INFO] 12 kayit yazildi (toplam: 819)
+2026-03-14 00:13:29,080 [INFO] Sayfa 53 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:13:29,146 [INFO] Email yok, atlanan: 5
+2026-03-14 00:13:29,146 [INFO] 15 kayit yazildi (toplam: 834)
+2026-03-14 00:13:33,184 [INFO] Sayfa 54 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:13:33,239 [INFO] Email yok, atlanan: 4
+2026-03-14 00:13:33,239 [INFO] 16 kayit yazildi (toplam: 850)
+2026-03-14 00:13:39,231 [INFO] Sayfa 55 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:13:39,287 [INFO] Email yok, atlanan: 6
+2026-03-14 00:13:39,287 [INFO] 14 kayit yazildi (toplam: 864)
+2026-03-14 00:13:47,058 [INFO] Sayfa 56 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:13:47,114 [INFO] Email yok, atlanan: 5
+2026-03-14 00:13:47,114 [INFO] 15 kayit yazildi (toplam: 879)
+2026-03-14 00:13:52,866 [INFO] Sayfa 57 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:13:52,930 [INFO] Email yok, atlanan: 10
+2026-03-14 00:13:52,930 [INFO] 10 kayit yazildi (toplam: 889)
+2026-03-14 00:14:00,396 [INFO] Sayfa 58 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:14:00,451 [INFO] Email yok, atlanan: 8
+2026-03-14 00:14:00,451 [INFO] 12 kayit yazildi (toplam: 901)
+2026-03-14 00:14:06,639 [INFO] Sayfa 59 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:14:06,693 [INFO] Email yok, atlanan: 10
+2026-03-14 00:14:06,693 [INFO] 10 kayit yazildi (toplam: 911)
+2026-03-14 00:14:12,382 [INFO] Sayfa 60 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:14:12,462 [INFO] Email yok, atlanan: 11
+2026-03-14 00:14:12,462 [INFO] 9 kayit yazildi (toplam: 920)
+2026-03-14 00:14:17,693 [INFO] Sayfa 61 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:14:17,741 [INFO] Email yok, atlanan: 5
+2026-03-14 00:14:17,741 [INFO] 15 kayit yazildi (toplam: 935)
+2026-03-14 00:14:23,879 [INFO] Sayfa 62 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:14:23,946 [INFO] Email yok, atlanan: 5
+2026-03-14 00:14:23,946 [INFO] 15 kayit yazildi (toplam: 950)
+2026-03-14 00:14:30,614 [INFO] Sayfa 63 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:14:30,668 [INFO] Email yok, atlanan: 4
+2026-03-14 00:14:30,670 [INFO] 16 kayit yazildi (toplam: 966)
+2026-03-14 00:14:38,270 [INFO] Sayfa 64 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:14:38,324 [INFO] Email yok, atlanan: 8
+2026-03-14 00:14:38,324 [INFO] 12 kayit yazildi (toplam: 978)
+2026-03-14 00:14:45,311 [INFO] Sayfa 65 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:14:45,358 [INFO] Email yok, atlanan: 11
+2026-03-14 00:14:45,358 [INFO] 9 kayit yazildi (toplam: 987)
+2026-03-14 00:14:52,632 [INFO] Sayfa 66 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:14:52,686 [INFO] Email yok, atlanan: 7
+2026-03-14 00:14:52,686 [INFO] 13 kayit yazildi (toplam: 1000)
+2026-03-14 00:14:57,855 [INFO] Sayfa 67 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:14:57,919 [INFO] Email yok, atlanan: 8
+2026-03-14 00:14:57,919 [INFO] 12 kayit yazildi (toplam: 1012)
+2026-03-14 00:15:04,198 [INFO] Sayfa 68 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:15:04,257 [INFO] Email yok, atlanan: 6
+2026-03-14 00:15:04,257 [INFO] 14 kayit yazildi (toplam: 1026)
+2026-03-14 00:15:12,625 [INFO] Sayfa 69 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:15:12,679 [INFO] Email yok, atlanan: 5
+2026-03-14 00:15:12,679 [INFO] 15 kayit yazildi (toplam: 1041)
+2026-03-14 00:15:22,341 [INFO] Sayfa 70 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:15:22,391 [INFO] Email yok, atlanan: 4
+2026-03-14 00:15:22,402 [INFO] 16 kayit yazildi (toplam: 1057)
+2026-03-14 00:15:28,481 [INFO] Sayfa 71 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:15:28,536 [INFO] Email yok, atlanan: 4
+2026-03-14 00:15:28,536 [INFO] 16 kayit yazildi (toplam: 1073)
+2026-03-14 00:15:34,062 [INFO] Sayfa 72 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:15:34,115 [INFO] Email yok, atlanan: 1
+2026-03-14 00:15:34,115 [INFO] 19 kayit yazildi (toplam: 1092)
+2026-03-14 00:15:38,561 [INFO] Sayfa 73 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:15:38,622 [INFO] Email yok, atlanan: 1
+2026-03-14 00:15:38,622 [INFO] 19 kayit yazildi (toplam: 1111)
+2026-03-14 00:15:45,211 [INFO] Sayfa 74 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:15:45,264 [INFO] Email yok, atlanan: 5
+2026-03-14 00:15:45,264 [INFO] 15 kayit yazildi (toplam: 1126)
+2026-03-14 00:15:50,704 [INFO] Sayfa 75 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:15:50,781 [INFO] Email yok, atlanan: 2
+2026-03-14 00:15:50,781 [INFO] 18 kayit yazildi (toplam: 1144)
+2026-03-14 00:15:58,479 [INFO] Sayfa 76 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:15:58,536 [INFO] Email yok, atlanan: 3
+2026-03-14 00:15:58,537 [INFO] 17 kayit yazildi (toplam: 1161)
+2026-03-14 00:16:06,249 [INFO] Sayfa 77 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:16:06,308 [INFO] Email yok, atlanan: 4
+2026-03-14 00:16:06,308 [INFO] 16 kayit yazildi (toplam: 1177)
+2026-03-14 00:16:13,798 [INFO] Sayfa 78 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:16:13,857 [INFO] 20 kayit yazildi (toplam: 1197)
+2026-03-14 00:16:22,839 [INFO] Sayfa 79 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:16:22,893 [INFO] Email yok, atlanan: 6
+2026-03-14 00:16:22,893 [INFO] 14 kayit yazildi (toplam: 1211)
+2026-03-14 00:16:33,652 [INFO] Sayfa 80 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:16:33,737 [INFO] 20 kayit yazildi (toplam: 1231)
+2026-03-14 00:16:42,935 [INFO] Sayfa 81 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:16:42,993 [INFO] Email yok, atlanan: 4
+2026-03-14 00:16:42,993 [INFO] 16 kayit yazildi (toplam: 1247)
+2026-03-14 00:16:49,484 [INFO] Sayfa 82 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:16:49,555 [INFO] Email yok, atlanan: 3
+2026-03-14 00:16:49,555 [INFO] 17 kayit yazildi (toplam: 1264)
+2026-03-14 00:16:55,678 [INFO] Sayfa 83 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:16:55,737 [INFO] Email yok, atlanan: 3
+2026-03-14 00:16:55,737 [INFO] 17 kayit yazildi (toplam: 1281)
+2026-03-14 00:17:03,375 [INFO] Sayfa 84 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:17:03,428 [INFO] Email yok, atlanan: 6
+2026-03-14 00:17:03,428 [INFO] 14 kayit yazildi (toplam: 1295)
+2026-03-14 00:17:10,563 [INFO] Sayfa 85 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:17:10,611 [INFO] Email yok, atlanan: 3
+2026-03-14 00:17:10,611 [INFO] 17 kayit yazildi (toplam: 1312)
+2026-03-14 00:17:16,354 [INFO] Sayfa 86 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:17:16,401 [INFO] Email yok, atlanan: 3
+2026-03-14 00:17:16,401 [INFO] 17 kayit yazildi (toplam: 1329)
+2026-03-14 00:17:21,500 [INFO] Sayfa 87 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:17:21,547 [INFO] Email yok, atlanan: 5
+2026-03-14 00:17:21,547 [INFO] 15 kayit yazildi (toplam: 1344)
+2026-03-14 00:17:26,458 [INFO] Sayfa 88 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:17:26,504 [INFO] Email yok, atlanan: 1
+2026-03-14 00:17:26,504 [INFO] 19 kayit yazildi (toplam: 1363)
+2026-03-14 00:17:35,530 [INFO] Sayfa 89 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:17:35,603 [INFO] Email yok, atlanan: 2
+2026-03-14 00:17:35,603 [INFO] 18 kayit yazildi (toplam: 1381)
+2026-03-14 00:17:42,322 [INFO] Sayfa 90 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:17:42,366 [INFO] Email yok, atlanan: 2
+2026-03-14 00:17:42,366 [INFO] 18 kayit yazildi (toplam: 1399)
+2026-03-14 00:17:50,192 [INFO] Sayfa 91 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:17:50,255 [INFO] Email yok, atlanan: 3
+2026-03-14 00:17:50,255 [INFO] 17 kayit yazildi (toplam: 1416)
+2026-03-14 00:17:54,809 [INFO] Sayfa 92 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:17:54,858 [INFO] Email yok, atlanan: 3
+2026-03-14 00:17:54,858 [INFO] 17 kayit yazildi (toplam: 1433)
+2026-03-14 00:18:02,807 [INFO] Sayfa 93 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:18:02,871 [INFO] Email yok, atlanan: 4
+2026-03-14 00:18:02,871 [INFO] 16 kayit yazildi (toplam: 1449)
+2026-03-14 00:18:09,753 [INFO] Sayfa 94 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:18:09,816 [INFO] Email yok, atlanan: 3
+2026-03-14 00:18:09,816 [INFO] 17 kayit yazildi (toplam: 1466)
+2026-03-14 00:18:16,797 [INFO] Sayfa 95 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:18:16,854 [INFO] Email yok, atlanan: 5
+2026-03-14 00:18:16,854 [INFO] 15 kayit yazildi (toplam: 1481)
+2026-03-14 00:18:21,731 [INFO] Sayfa 96 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:18:21,809 [INFO] Email yok, atlanan: 4
+2026-03-14 00:18:21,809 [INFO] 16 kayit yazildi (toplam: 1497)
+2026-03-14 00:18:28,200 [INFO] Sayfa 97 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:18:28,245 [INFO] 20 kayit yazildi (toplam: 1517)
+2026-03-14 00:18:33,147 [INFO] Sayfa 98 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:18:33,200 [INFO] Email yok, atlanan: 6
+2026-03-14 00:18:33,201 [INFO] 14 kayit yazildi (toplam: 1531)
+2026-03-14 00:18:40,722 [INFO] Sayfa 99 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:18:40,772 [INFO] Email yok, atlanan: 4
+2026-03-14 00:18:40,772 [INFO] 16 kayit yazildi (toplam: 1547)
+2026-03-14 00:18:48,012 [INFO] Sayfa 100 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:18:48,068 [INFO] Email yok, atlanan: 4
+2026-03-14 00:18:48,068 [INFO] 16 kayit yazildi (toplam: 1563)
+2026-03-14 00:18:54,361 [INFO] Sayfa 101 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:18:54,416 [INFO] Email yok, atlanan: 5
+2026-03-14 00:18:54,416 [INFO] 15 kayit yazildi (toplam: 1578)
+2026-03-14 00:19:01,089 [INFO] Sayfa 102 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:19:01,150 [INFO] 20 kayit yazildi (toplam: 1598)
+2026-03-14 00:19:09,054 [INFO] Sayfa 103 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:19:09,134 [INFO] Email yok, atlanan: 3
+2026-03-14 00:19:09,134 [INFO] 17 kayit yazildi (toplam: 1615)
+2026-03-14 00:19:14,259 [INFO] Sayfa 104 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:19:14,315 [INFO] Email yok, atlanan: 1
+2026-03-14 00:19:14,315 [INFO] 19 kayit yazildi (toplam: 1634)
+2026-03-14 00:19:22,915 [INFO] Sayfa 105 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:19:22,971 [INFO] 20 kayit yazildi (toplam: 1654)
+2026-03-14 00:19:27,895 [INFO] Sayfa 106 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:19:27,959 [INFO] Email yok, atlanan: 6
+2026-03-14 00:19:27,959 [INFO] 14 kayit yazildi (toplam: 1668)
+2026-03-14 00:19:33,231 [INFO] Sayfa 107 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:19:33,294 [INFO] Email yok, atlanan: 4
+2026-03-14 00:19:33,298 [INFO] 16 kayit yazildi (toplam: 1684)
+2026-03-14 00:19:37,916 [INFO] Sayfa 108 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:19:37,979 [INFO] Email yok, atlanan: 4
+2026-03-14 00:19:37,979 [INFO] 16 kayit yazildi (toplam: 1700)
+2026-03-14 00:19:42,846 [INFO] Sayfa 109 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:19:42,893 [INFO] Email yok, atlanan: 5
+2026-03-14 00:19:42,893 [INFO] 15 kayit yazildi (toplam: 1715)
+2026-03-14 00:19:50,663 [INFO] Sayfa 110 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:19:50,736 [INFO] Email yok, atlanan: 4
+2026-03-14 00:19:50,736 [INFO] 16 kayit yazildi (toplam: 1731)
+2026-03-14 00:19:55,794 [INFO] Sayfa 111 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:19:55,857 [INFO] Email yok, atlanan: 4
+2026-03-14 00:19:55,857 [INFO] 16 kayit yazildi (toplam: 1747)
+2026-03-14 00:20:00,416 [INFO] Sayfa 112 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:20:00,480 [INFO] Email yok, atlanan: 5
+2026-03-14 00:20:00,480 [INFO] 15 kayit yazildi (toplam: 1762)
+2026-03-14 00:20:05,575 [INFO] Sayfa 113 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:20:05,637 [INFO] Email yok, atlanan: 7
+2026-03-14 00:20:05,637 [INFO] 13 kayit yazildi (toplam: 1775)
+2026-03-14 00:20:10,955 [INFO] Sayfa 114 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:20:11,015 [INFO] Email yok, atlanan: 6
+2026-03-14 00:20:11,015 [INFO] 14 kayit yazildi (toplam: 1789)
+2026-03-14 00:20:16,302 [INFO] Sayfa 115 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:20:16,369 [INFO] Email yok, atlanan: 2
+2026-03-14 00:20:16,369 [INFO] 18 kayit yazildi (toplam: 1807)
+2026-03-14 00:20:22,574 [INFO] Sayfa 116 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:20:22,633 [INFO] Email yok, atlanan: 5
+2026-03-14 00:20:22,633 [INFO] 15 kayit yazildi (toplam: 1822)
+2026-03-14 00:20:27,948 [INFO] Sayfa 117 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:20:28,013 [INFO] Email yok, atlanan: 4
+2026-03-14 00:20:28,013 [INFO] 16 kayit yazildi (toplam: 1838)
+2026-03-14 00:20:35,148 [INFO] Sayfa 118 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:20:35,235 [INFO] Email yok, atlanan: 4
+2026-03-14 00:20:35,235 [INFO] 16 kayit yazildi (toplam: 1854)
+2026-03-14 00:20:45,427 [INFO] Sayfa 119 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:20:45,493 [INFO] Email yok, atlanan: 3
+2026-03-14 00:20:45,493 [INFO] 17 kayit yazildi (toplam: 1871)
+2026-03-14 00:20:51,614 [INFO] Sayfa 120 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:20:51,672 [INFO] Email yok, atlanan: 6
+2026-03-14 00:20:51,672 [INFO] 14 kayit yazildi (toplam: 1885)
+2026-03-14 00:20:59,241 [INFO] Sayfa 121 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:20:59,293 [INFO] Email yok, atlanan: 2
+2026-03-14 00:20:59,293 [INFO] 18 kayit yazildi (toplam: 1903)
+2026-03-14 00:21:06,013 [INFO] Sayfa 122 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:21:06,070 [INFO] Email yok, atlanan: 9
+2026-03-14 00:21:06,070 [INFO] 11 kayit yazildi (toplam: 1914)
+2026-03-14 00:21:15,801 [INFO] Sayfa 123 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:21:15,854 [INFO] Email yok, atlanan: 3
+2026-03-14 00:21:15,854 [INFO] 17 kayit yazildi (toplam: 1931)
+2026-03-14 00:21:24,225 [INFO] Sayfa 124 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:21:24,272 [INFO] Email yok, atlanan: 4
+2026-03-14 00:21:24,272 [INFO] 16 kayit yazildi (toplam: 1947)
+2026-03-14 00:21:31,588 [INFO] Sayfa 125 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:21:31,678 [INFO] Email yok, atlanan: 6
+2026-03-14 00:21:31,678 [INFO] 14 kayit yazildi (toplam: 1961)
+2026-03-14 00:21:41,261 [INFO] Sayfa 126 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:21:41,322 [INFO] Email yok, atlanan: 4
+2026-03-14 00:21:41,322 [INFO] 16 kayit yazildi (toplam: 1977)
+2026-03-14 00:21:47,588 [INFO] Sayfa 127 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:21:47,650 [INFO] Email yok, atlanan: 4
+2026-03-14 00:21:47,652 [INFO] 16 kayit yazildi (toplam: 1993)
+2026-03-14 00:21:55,062 [INFO] Sayfa 128 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:21:55,125 [INFO] Email yok, atlanan: 4
+2026-03-14 00:21:55,125 [INFO] 16 kayit yazildi (toplam: 2009)
+2026-03-14 00:22:03,039 [INFO] Sayfa 129 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:22:03,097 [INFO] Email yok, atlanan: 3
+2026-03-14 00:22:03,097 [INFO] 17 kayit yazildi (toplam: 2026)
+2026-03-14 00:22:11,463 [INFO] Sayfa 130 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:22:11,529 [INFO] Email yok, atlanan: 4
+2026-03-14 00:22:11,529 [INFO] 16 kayit yazildi (toplam: 2042)
+2026-03-14 00:22:19,847 [INFO] Sayfa 131 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:22:19,914 [INFO] Email yok, atlanan: 5
+2026-03-14 00:22:19,914 [INFO] 15 kayit yazildi (toplam: 2057)
+2026-03-14 00:22:28,737 [INFO] Sayfa 132 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:22:28,809 [INFO] Email yok, atlanan: 6
+2026-03-14 00:22:28,809 [INFO] 14 kayit yazildi (toplam: 2071)
+2026-03-14 00:22:34,648 [INFO] Sayfa 133 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:22:34,707 [INFO] Email yok, atlanan: 6
+2026-03-14 00:22:34,707 [INFO] 14 kayit yazildi (toplam: 2085)
+2026-03-14 00:22:42,723 [INFO] Sayfa 134 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:22:42,780 [INFO] Email yok, atlanan: 8
+2026-03-14 00:22:42,780 [INFO] 12 kayit yazildi (toplam: 2097)
+2026-03-14 00:22:49,808 [INFO] Sayfa 135 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:22:49,869 [INFO] Email yok, atlanan: 5
+2026-03-14 00:22:49,869 [INFO] 15 kayit yazildi (toplam: 2112)
+2026-03-14 00:22:56,830 [INFO] Sayfa 136 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:22:56,892 [INFO] Email yok, atlanan: 4
+2026-03-14 00:22:56,892 [INFO] 16 kayit yazildi (toplam: 2128)
+2026-03-14 00:23:07,980 [INFO] Sayfa 137 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:23:08,041 [INFO] Email yok, atlanan: 7
+2026-03-14 00:23:08,043 [INFO] 13 kayit yazildi (toplam: 2141)
+2026-03-14 00:23:15,525 [INFO] Sayfa 138 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:23:15,585 [INFO] Email yok, atlanan: 4
+2026-03-14 00:23:15,586 [INFO] 16 kayit yazildi (toplam: 2157)
+2026-03-14 00:23:24,005 [INFO] Sayfa 139 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:23:24,069 [INFO] Email yok, atlanan: 5
+2026-03-14 00:23:24,069 [INFO] 15 kayit yazildi (toplam: 2172)
+2026-03-14 00:23:31,095 [INFO] Sayfa 140 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:23:31,168 [INFO] Email yok, atlanan: 4
+2026-03-14 00:23:31,168 [INFO] 16 kayit yazildi (toplam: 2188)
+2026-03-14 00:23:39,310 [INFO] Sayfa 141 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:23:39,369 [INFO] Email yok, atlanan: 5
+2026-03-14 00:23:39,369 [INFO] 15 kayit yazildi (toplam: 2203)
+2026-03-14 00:23:45,299 [INFO] Sayfa 142 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:23:45,359 [INFO] Email yok, atlanan: 6
+2026-03-14 00:23:45,359 [INFO] 14 kayit yazildi (toplam: 2217)
+2026-03-14 00:23:50,776 [INFO] Sayfa 143 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:23:50,835 [INFO] Email yok, atlanan: 6
+2026-03-14 00:23:50,835 [INFO] 14 kayit yazildi (toplam: 2231)
+2026-03-14 00:23:58,229 [INFO] Sayfa 144 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:23:58,290 [INFO] Email yok, atlanan: 5
+2026-03-14 00:23:58,290 [INFO] 15 kayit yazildi (toplam: 2246)
+2026-03-14 00:24:04,158 [INFO] Sayfa 145 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:24:04,220 [INFO] Email yok, atlanan: 4
+2026-03-14 00:24:04,221 [INFO] 16 kayit yazildi (toplam: 2262)
+2026-03-14 00:24:10,218 [INFO] Sayfa 146 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:24:10,301 [INFO] Email yok, atlanan: 2
+2026-03-14 00:24:10,302 [INFO] 18 kayit yazildi (toplam: 2280)
+2026-03-14 00:24:15,613 [INFO] Sayfa 147 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:24:15,677 [INFO] Email yok, atlanan: 4
+2026-03-14 00:24:15,677 [INFO] 16 kayit yazildi (toplam: 2296)
+2026-03-14 00:24:21,118 [INFO] Sayfa 148 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:24:21,177 [INFO] Email yok, atlanan: 4
+2026-03-14 00:24:21,177 [INFO] 16 kayit yazildi (toplam: 2312)
+2026-03-14 00:24:26,481 [INFO] Sayfa 149 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:24:26,551 [INFO] Email yok, atlanan: 4
+2026-03-14 00:24:26,551 [INFO] 16 kayit yazildi (toplam: 2328)
+2026-03-14 00:24:32,033 [INFO] Sayfa 150 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:24:32,097 [INFO] Email yok, atlanan: 3
+2026-03-14 00:24:32,097 [INFO] 17 kayit yazildi (toplam: 2345)
+2026-03-14 00:24:37,337 [INFO] Sayfa 151 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:24:37,400 [INFO] Email yok, atlanan: 5
+2026-03-14 00:24:37,401 [INFO] 15 kayit yazildi (toplam: 2360)
+2026-03-14 00:24:43,698 [INFO] Sayfa 152 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:24:43,759 [INFO] Email yok, atlanan: 10
+2026-03-14 00:24:43,760 [INFO] 10 kayit yazildi (toplam: 2370)
+2026-03-14 00:24:49,997 [INFO] Sayfa 153 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:24:50,078 [INFO] Email yok, atlanan: 5
+2026-03-14 00:24:50,079 [INFO] 15 kayit yazildi (toplam: 2385)
+2026-03-14 00:24:55,941 [INFO] Sayfa 154 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:24:55,996 [INFO] Email yok, atlanan: 8
+2026-03-14 00:24:55,997 [INFO] 12 kayit yazildi (toplam: 2397)
+2026-03-14 00:25:01,362 [INFO] Sayfa 155 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:25:01,424 [INFO] Email yok, atlanan: 10
+2026-03-14 00:25:01,425 [INFO] 10 kayit yazildi (toplam: 2407)
+2026-03-14 00:25:06,742 [INFO] Sayfa 156 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:25:06,800 [INFO] Email yok, atlanan: 3
+2026-03-14 00:25:06,800 [INFO] 17 kayit yazildi (toplam: 2424)
+2026-03-14 00:25:12,319 [INFO] Sayfa 157 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:25:12,381 [INFO] Email yok, atlanan: 6
+2026-03-14 00:25:12,382 [INFO] 14 kayit yazildi (toplam: 2438)
+2026-03-14 00:25:18,044 [INFO] Sayfa 158 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:25:18,118 [INFO] Email yok, atlanan: 6
+2026-03-14 00:25:18,118 [INFO] 14 kayit yazildi (toplam: 2452)
+2026-03-14 00:25:23,427 [INFO] Sayfa 159 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:25:23,494 [INFO] Email yok, atlanan: 9
+2026-03-14 00:25:23,494 [INFO] 11 kayit yazildi (toplam: 2463)
+2026-03-14 00:25:28,862 [INFO] Sayfa 160 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:25:28,943 [INFO] Email yok, atlanan: 5
+2026-03-14 00:25:28,943 [INFO] 15 kayit yazildi (toplam: 2478)
+2026-03-14 00:25:34,290 [INFO] Sayfa 161 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:25:34,348 [INFO] Email yok, atlanan: 4
+2026-03-14 00:25:34,348 [INFO] 16 kayit yazildi (toplam: 2494)
+2026-03-14 00:25:40,331 [INFO] Sayfa 162 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:25:40,388 [INFO] Email yok, atlanan: 2
+2026-03-14 00:25:40,389 [INFO] 18 kayit yazildi (toplam: 2512)
+2026-03-14 00:25:46,203 [INFO] Sayfa 163 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:25:46,263 [INFO] Email yok, atlanan: 6
+2026-03-14 00:25:46,263 [INFO] 14 kayit yazildi (toplam: 2526)
+2026-03-14 00:25:51,673 [INFO] Sayfa 164 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:25:51,727 [INFO] Email yok, atlanan: 2
+2026-03-14 00:25:51,727 [INFO] 18 kayit yazildi (toplam: 2544)
+2026-03-14 00:25:57,233 [INFO] Sayfa 165 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:25:57,295 [INFO] Email yok, atlanan: 2
+2026-03-14 00:25:57,296 [INFO] 18 kayit yazildi (toplam: 2562)
+2026-03-14 00:26:03,644 [INFO] Sayfa 166 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:26:03,725 [INFO] Email yok, atlanan: 3
+2026-03-14 00:26:03,725 [INFO] 17 kayit yazildi (toplam: 2579)
+2026-03-14 00:26:09,476 [INFO] Sayfa 167 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:26:09,547 [INFO] Email yok, atlanan: 3
+2026-03-14 00:26:09,561 [INFO] 17 kayit yazildi (toplam: 2596)
+2026-03-14 00:26:16,037 [INFO] Sayfa 168 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:26:16,094 [INFO] Email yok, atlanan: 4
+2026-03-14 00:26:16,094 [INFO] 16 kayit yazildi (toplam: 2612)
+2026-03-14 00:26:22,509 [INFO] Sayfa 169 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:26:22,571 [INFO] Email yok, atlanan: 4
+2026-03-14 00:26:22,571 [INFO] 16 kayit yazildi (toplam: 2628)
+2026-03-14 00:26:30,080 [INFO] Sayfa 170 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:26:30,137 [INFO] Email yok, atlanan: 2
+2026-03-14 00:26:30,138 [INFO] 18 kayit yazildi (toplam: 2646)
+2026-03-14 00:26:36,104 [INFO] Sayfa 171 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:26:36,162 [INFO] Email yok, atlanan: 8
+2026-03-14 00:26:36,162 [INFO] 12 kayit yazildi (toplam: 2658)
+2026-03-14 00:26:41,844 [INFO] Sayfa 172 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:26:41,901 [INFO] Email yok, atlanan: 6
+2026-03-14 00:26:41,902 [INFO] 14 kayit yazildi (toplam: 2672)
+2026-03-14 00:26:47,720 [INFO] Sayfa 173 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:26:47,786 [INFO] Email yok, atlanan: 4
+2026-03-14 00:26:47,786 [INFO] 16 kayit yazildi (toplam: 2688)
+2026-03-14 00:26:53,677 [INFO] Sayfa 174 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:26:53,744 [INFO] Email yok, atlanan: 3
+2026-03-14 00:26:53,744 [INFO] 17 kayit yazildi (toplam: 2705)
+2026-03-14 00:26:59,490 [INFO] Sayfa 175 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:26:59,547 [INFO] Email yok, atlanan: 3
+2026-03-14 00:26:59,547 [INFO] 17 kayit yazildi (toplam: 2722)
+2026-03-14 00:27:05,345 [INFO] Sayfa 176 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:27:05,419 [INFO] Email yok, atlanan: 4
+2026-03-14 00:27:05,419 [INFO] 16 kayit yazildi (toplam: 2738)
+2026-03-14 00:27:11,524 [INFO] Sayfa 177 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:27:11,585 [INFO] Email yok, atlanan: 6
+2026-03-14 00:27:11,585 [INFO] 14 kayit yazildi (toplam: 2752)
+2026-03-14 00:27:17,427 [INFO] Sayfa 178 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:27:17,489 [INFO] Email yok, atlanan: 4
+2026-03-14 00:27:17,489 [INFO] 16 kayit yazildi (toplam: 2768)
+2026-03-14 00:27:23,443 [INFO] Sayfa 179 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:27:23,507 [INFO] Email yok, atlanan: 2
+2026-03-14 00:27:23,507 [INFO] 18 kayit yazildi (toplam: 2786)
+2026-03-14 00:27:29,432 [INFO] Sayfa 180 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:27:29,497 [INFO] Email yok, atlanan: 5
+2026-03-14 00:27:29,498 [INFO] 15 kayit yazildi (toplam: 2801)
+2026-03-14 00:27:36,323 [INFO] Sayfa 181 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:27:36,389 [INFO] Email yok, atlanan: 3
+2026-03-14 00:27:36,389 [INFO] 17 kayit yazildi (toplam: 2818)
+2026-03-14 00:27:42,785 [INFO] Sayfa 182 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:27:42,866 [INFO] Email yok, atlanan: 3
+2026-03-14 00:27:42,867 [INFO] 17 kayit yazildi (toplam: 2835)
+2026-03-14 00:27:48,867 [INFO] Sayfa 183 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:27:48,945 [INFO] Email yok, atlanan: 1
+2026-03-14 00:27:48,945 [INFO] 19 kayit yazildi (toplam: 2854)
+2026-03-14 00:27:55,082 [INFO] Sayfa 184 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:27:55,135 [INFO] Email yok, atlanan: 5
+2026-03-14 00:27:55,135 [INFO] 15 kayit yazildi (toplam: 2869)
+2026-03-14 00:28:02,014 [INFO] Sayfa 185 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:28:02,079 [INFO] Email yok, atlanan: 5
+2026-03-14 00:28:02,079 [INFO] 15 kayit yazildi (toplam: 2884)
+2026-03-14 00:28:08,545 [INFO] Sayfa 186 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:28:08,620 [INFO] Email yok, atlanan: 2
+2026-03-14 00:28:08,620 [INFO] 18 kayit yazildi (toplam: 2902)
+2026-03-14 00:28:14,536 [INFO] Sayfa 187 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:28:14,594 [INFO] Email yok, atlanan: 4
+2026-03-14 00:28:14,594 [INFO] 16 kayit yazildi (toplam: 2918)
+2026-03-14 00:28:20,863 [INFO] Sayfa 188 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:28:20,923 [INFO] Email yok, atlanan: 3
+2026-03-14 00:28:20,923 [INFO] 17 kayit yazildi (toplam: 2935)
+2026-03-14 00:28:27,770 [INFO] Sayfa 189 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:28:27,845 [INFO] Email yok, atlanan: 2
+2026-03-14 00:28:27,860 [INFO] 18 kayit yazildi (toplam: 2953)
+2026-03-14 00:28:34,876 [INFO] Sayfa 190 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:28:34,943 [INFO] Email yok, atlanan: 3
+2026-03-14 00:28:34,943 [INFO] 17 kayit yazildi (toplam: 2970)
+2026-03-14 00:28:41,710 [INFO] Sayfa 191 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:28:41,772 [INFO] Email yok, atlanan: 6
+2026-03-14 00:28:41,772 [INFO] 14 kayit yazildi (toplam: 2984)
+2026-03-14 00:28:48,170 [INFO] Sayfa 192 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:28:48,227 [INFO] Email yok, atlanan: 5
+2026-03-14 00:28:48,228 [INFO] 15 kayit yazildi (toplam: 2999)
+2026-03-14 00:28:54,439 [INFO] Sayfa 193 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:28:54,493 [INFO] Email yok, atlanan: 9
+2026-03-14 00:28:54,493 [INFO] 11 kayit yazildi (toplam: 3010)
+2026-03-14 00:29:00,762 [INFO] Sayfa 194 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:29:00,816 [INFO] Email yok, atlanan: 6
+2026-03-14 00:29:00,816 [INFO] 14 kayit yazildi (toplam: 3024)
+2026-03-14 00:29:07,481 [INFO] Sayfa 195 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:29:07,533 [INFO] Email yok, atlanan: 4
+2026-03-14 00:29:07,533 [INFO] 16 kayit yazildi (toplam: 3040)
+2026-03-14 00:29:13,555 [INFO] Sayfa 196 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:29:13,625 [INFO] Email yok, atlanan: 3
+2026-03-14 00:29:13,625 [INFO] 17 kayit yazildi (toplam: 3057)
+2026-03-14 00:29:23,038 [INFO] Sayfa 197 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:29:23,099 [INFO] Email yok, atlanan: 3
+2026-03-14 00:29:23,099 [INFO] 17 kayit yazildi (toplam: 3074)
+2026-03-14 00:29:29,514 [INFO] Sayfa 198 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:29:29,588 [INFO] Email yok, atlanan: 3
+2026-03-14 00:29:29,588 [INFO] 17 kayit yazildi (toplam: 3091)
+2026-03-14 00:29:35,893 [INFO] Sayfa 199 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:29:35,946 [INFO] Email yok, atlanan: 6
+2026-03-14 00:29:35,946 [INFO] 14 kayit yazildi (toplam: 3105)
+2026-03-14 00:29:42,123 [INFO] Sayfa 200 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:29:42,181 [INFO] Email yok, atlanan: 2
+2026-03-14 00:29:42,181 [INFO] 18 kayit yazildi (toplam: 3123)
+2026-03-14 00:29:48,354 [INFO] Sayfa 201 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:29:48,410 [INFO] Email yok, atlanan: 2
+2026-03-14 00:29:48,411 [INFO] 18 kayit yazildi (toplam: 3141)
+2026-03-14 00:29:54,717 [INFO] Sayfa 202 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:29:54,776 [INFO] Email yok, atlanan: 6
+2026-03-14 00:29:54,777 [INFO] 14 kayit yazildi (toplam: 3155)
+2026-03-14 00:30:00,852 [INFO] Sayfa 203 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:30:00,922 [INFO] Email yok, atlanan: 2
+2026-03-14 00:30:00,922 [INFO] 18 kayit yazildi (toplam: 3173)
+2026-03-14 00:30:07,151 [INFO] Sayfa 204 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:30:07,205 [INFO] Email yok, atlanan: 4
+2026-03-14 00:30:07,205 [INFO] 16 kayit yazildi (toplam: 3189)
+2026-03-14 00:30:13,240 [INFO] Sayfa 205 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-14 00:30:13,284 [INFO] Email yok, atlanan: 1
+2026-03-14 00:30:13,284 [INFO] 9 kayit yazildi (toplam: 3198)
+2026-03-14 00:30:13,332 [INFO] Son sayfa.
+2026-03-14 00:30:13,332 [INFO] Bu alan bitti: 3198 kayit
+2026-03-14 00:41:59,879 [INFO] TAMAM! Toplam 3198 kayit -> C:\Users\Can Arda\Desktop\Akademisyenİletişim Bilgisi Çekici\akademisyenler.csv
+2026-03-31 21:23:22,038 [INFO] YOK Akademik Scraper basliyor...
+2026-03-31 21:24:13,216 [INFO] Yeni CSV
+2026-03-31 21:25:06,000 [INFO] Tarama basliyor: https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:25:06,058 [INFO] Sayfa 1 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:25:06,115 [INFO] Email yok, atlanan: 3
+2026-03-31 21:25:06,117 [INFO] 17 kayit yazildi (toplam: 17)
+2026-03-31 21:25:12,496 [INFO] Sayfa 2 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:25:12,537 [INFO] Email yok, atlanan: 1
+2026-03-31 21:25:12,537 [INFO] 19 kayit yazildi (toplam: 36)
+2026-03-31 21:25:16,076 [INFO] Sayfa 3 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:25:16,139 [INFO] Email yok, atlanan: 1
+2026-03-31 21:25:16,139 [INFO] 19 kayit yazildi (toplam: 55)
+2026-03-31 21:25:23,075 [INFO] Sayfa 4 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:25:23,125 [INFO] Email yok, atlanan: 1
+2026-03-31 21:25:23,125 [INFO] 19 kayit yazildi (toplam: 74)
+2026-03-31 21:25:35,951 [INFO] Sayfa 5 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:25:35,995 [INFO] Email yok, atlanan: 1
+2026-03-31 21:25:35,995 [INFO] 19 kayit yazildi (toplam: 93)
+2026-03-31 21:25:46,850 [INFO] Sayfa 6 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:25:46,902 [INFO] Email yok, atlanan: 1
+2026-03-31 21:25:46,902 [INFO] 19 kayit yazildi (toplam: 112)
+2026-03-31 21:26:00,486 [INFO] Sayfa 7 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:26:00,542 [INFO] Email yok, atlanan: 3
+2026-03-31 21:26:00,542 [INFO] 17 kayit yazildi (toplam: 129)
+2026-03-31 21:26:11,748 [INFO] Sayfa 8 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:26:11,797 [INFO] Email yok, atlanan: 4
+2026-03-31 21:26:11,801 [INFO] 16 kayit yazildi (toplam: 145)
+2026-03-31 21:26:22,271 [INFO] Sayfa 9 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:26:22,320 [INFO] Email yok, atlanan: 2
+2026-03-31 21:26:22,320 [INFO] 18 kayit yazildi (toplam: 163)
+2026-03-31 21:26:33,908 [INFO] Sayfa 10 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:26:33,972 [INFO] Email yok, atlanan: 2
+2026-03-31 21:26:33,972 [INFO] 18 kayit yazildi (toplam: 181)
+2026-03-31 21:26:55,954 [INFO] Sayfa 11 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:26:56,002 [INFO] Email yok, atlanan: 3
+2026-03-31 21:26:56,002 [INFO] 17 kayit yazildi (toplam: 198)
+2026-03-31 21:26:58,921 [INFO] Sayfa 12 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:26:58,969 [INFO] Email yok, atlanan: 3
+2026-03-31 21:26:58,969 [INFO] 17 kayit yazildi (toplam: 215)
+2026-03-31 21:27:01,807 [INFO] Sayfa 13 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:27:01,854 [INFO] Email yok, atlanan: 2
+2026-03-31 21:27:01,854 [INFO] 18 kayit yazildi (toplam: 233)
+2026-03-31 21:27:04,605 [INFO] Sayfa 14 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:27:04,658 [INFO] Email yok, atlanan: 2
+2026-03-31 21:27:04,658 [INFO] 18 kayit yazildi (toplam: 251)
+2026-03-31 21:27:08,598 [INFO] Sayfa 15 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:27:08,641 [INFO] 20 kayit yazildi (toplam: 271)
+2026-03-31 21:27:12,276 [INFO] Sayfa 16 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:27:12,321 [INFO] Email yok, atlanan: 7
+2026-03-31 21:27:12,321 [INFO] 13 kayit yazildi (toplam: 284)
+2026-03-31 21:27:26,202 [INFO] Sayfa 17 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:27:26,266 [INFO] Email yok, atlanan: 3
+2026-03-31 21:27:26,266 [INFO] 17 kayit yazildi (toplam: 301)
+2026-03-31 21:27:29,425 [INFO] Sayfa 18 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:27:29,477 [INFO] Email yok, atlanan: 6
+2026-03-31 21:27:29,477 [INFO] 14 kayit yazildi (toplam: 315)
+2026-03-31 21:27:34,441 [INFO] Sayfa 19 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:27:34,504 [INFO] Email yok, atlanan: 3
+2026-03-31 21:27:34,504 [INFO] 17 kayit yazildi (toplam: 332)
+2026-03-31 21:27:37,513 [INFO] Sayfa 20 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:27:37,558 [INFO] Email yok, atlanan: 3
+2026-03-31 21:27:37,558 [INFO] 17 kayit yazildi (toplam: 349)
+2026-03-31 21:27:40,540 [INFO] Sayfa 21 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:27:40,592 [INFO] Email yok, atlanan: 7
+2026-03-31 21:27:40,592 [INFO] 13 kayit yazildi (toplam: 362)
+2026-03-31 21:27:44,231 [INFO] Sayfa 22 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:27:44,278 [INFO] Email yok, atlanan: 5
+2026-03-31 21:27:44,278 [INFO] 15 kayit yazildi (toplam: 377)
+2026-03-31 21:27:47,484 [INFO] Sayfa 23 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:27:47,532 [INFO] Email yok, atlanan: 1
+2026-03-31 21:27:47,532 [INFO] 19 kayit yazildi (toplam: 396)
+2026-03-31 21:27:50,566 [INFO] Sayfa 24 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:27:50,637 [INFO] Email yok, atlanan: 4
+2026-03-31 21:27:50,637 [INFO] 16 kayit yazildi (toplam: 412)
+2026-03-31 21:27:53,464 [INFO] Sayfa 25 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:27:53,529 [INFO] 20 kayit yazildi (toplam: 432)
+2026-03-31 21:27:56,531 [INFO] Sayfa 26 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:27:56,588 [INFO] 20 kayit yazildi (toplam: 452)
+2026-03-31 21:28:05,289 [INFO] Sayfa 27 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:28:05,349 [INFO] Email yok, atlanan: 3
+2026-03-31 21:28:05,349 [INFO] 17 kayit yazildi (toplam: 469)
+2026-03-31 21:28:08,665 [INFO] Sayfa 28 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:28:08,712 [INFO] Email yok, atlanan: 4
+2026-03-31 21:28:08,712 [INFO] 16 kayit yazildi (toplam: 485)
+2026-03-31 21:28:12,691 [INFO] Sayfa 29 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:28:12,754 [INFO] Email yok, atlanan: 2
+2026-03-31 21:28:12,754 [INFO] 18 kayit yazildi (toplam: 503)
+2026-03-31 21:28:16,059 [INFO] Sayfa 30 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:28:16,111 [INFO] Email yok, atlanan: 2
+2026-03-31 21:28:16,111 [INFO] 18 kayit yazildi (toplam: 521)
+2026-03-31 21:28:19,315 [INFO] Sayfa 31 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:28:19,393 [INFO] 20 kayit yazildi (toplam: 541)
+2026-03-31 21:28:23,499 [INFO] Sayfa 32 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:28:23,547 [INFO] Email yok, atlanan: 3
+2026-03-31 21:28:23,547 [INFO] 17 kayit yazildi (toplam: 558)
+2026-03-31 21:28:27,239 [INFO] Sayfa 33 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:28:27,292 [INFO] Email yok, atlanan: 2
+2026-03-31 21:28:27,292 [INFO] 18 kayit yazildi (toplam: 576)
+2026-03-31 21:28:37,214 [INFO] Sayfa 34 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:28:37,276 [INFO] Email yok, atlanan: 4
+2026-03-31 21:28:37,276 [INFO] 16 kayit yazildi (toplam: 592)
+2026-03-31 21:28:41,145 [INFO] Sayfa 35 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:28:41,208 [INFO] Email yok, atlanan: 5
+2026-03-31 21:28:41,208 [INFO] 15 kayit yazildi (toplam: 607)
+2026-03-31 21:28:47,122 [INFO] Sayfa 36 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:28:47,179 [INFO] Email yok, atlanan: 2
+2026-03-31 21:28:47,179 [INFO] 18 kayit yazildi (toplam: 625)
+2026-03-31 21:28:51,256 [INFO] Sayfa 37 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:28:51,303 [INFO] Email yok, atlanan: 3
+2026-03-31 21:28:51,303 [INFO] 17 kayit yazildi (toplam: 642)
+2026-03-31 21:28:54,644 [INFO] Sayfa 38 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:28:54,720 [INFO] Email yok, atlanan: 4
+2026-03-31 21:28:54,720 [INFO] 16 kayit yazildi (toplam: 658)
+2026-03-31 21:28:57,866 [INFO] Sayfa 39 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:28:57,929 [INFO] Email yok, atlanan: 3
+2026-03-31 21:28:57,929 [INFO] 17 kayit yazildi (toplam: 675)
+2026-03-31 21:29:01,401 [INFO] Sayfa 40 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:29:01,465 [INFO] Email yok, atlanan: 4
+2026-03-31 21:29:01,465 [INFO] 16 kayit yazildi (toplam: 691)
+2026-03-31 21:29:05,144 [INFO] Sayfa 41 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:29:05,196 [INFO] Email yok, atlanan: 5
+2026-03-31 21:29:05,196 [INFO] 15 kayit yazildi (toplam: 706)
+2026-03-31 21:29:09,111 [INFO] Sayfa 42 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:29:09,158 [INFO] Email yok, atlanan: 1
+2026-03-31 21:29:09,158 [INFO] 19 kayit yazildi (toplam: 725)
+2026-03-31 21:29:13,474 [INFO] Sayfa 43 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:29:13,537 [INFO] 20 kayit yazildi (toplam: 745)
+2026-03-31 21:29:18,921 [INFO] Sayfa 44 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:29:18,988 [INFO] Email yok, atlanan: 2
+2026-03-31 21:29:18,988 [INFO] 18 kayit yazildi (toplam: 763)
+2026-03-31 21:29:23,661 [INFO] Sayfa 45 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:29:23,734 [INFO] Email yok, atlanan: 3
+2026-03-31 21:29:23,734 [INFO] 17 kayit yazildi (toplam: 780)
+2026-03-31 21:29:27,277 [INFO] Sayfa 46 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:29:27,325 [INFO] Email yok, atlanan: 3
+2026-03-31 21:29:27,340 [INFO] 17 kayit yazildi (toplam: 797)
+2026-03-31 21:29:31,537 [INFO] Sayfa 47 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:29:31,585 [INFO] Email yok, atlanan: 2
+2026-03-31 21:29:31,585 [INFO] 18 kayit yazildi (toplam: 815)
+2026-03-31 21:29:35,803 [INFO] Sayfa 48 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:29:35,867 [INFO] Email yok, atlanan: 7
+2026-03-31 21:29:35,867 [INFO] 13 kayit yazildi (toplam: 828)
+2026-03-31 21:29:39,442 [INFO] Sayfa 49 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:29:39,490 [INFO] Email yok, atlanan: 6
+2026-03-31 21:29:39,490 [INFO] 14 kayit yazildi (toplam: 842)
+2026-03-31 21:29:42,931 [INFO] Sayfa 50 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:29:42,981 [INFO] Email yok, atlanan: 5
+2026-03-31 21:29:42,981 [INFO] 15 kayit yazildi (toplam: 857)
+2026-03-31 21:29:48,212 [INFO] Sayfa 51 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:29:48,267 [INFO] Email yok, atlanan: 10
+2026-03-31 21:29:48,267 [INFO] 10 kayit yazildi (toplam: 867)
+2026-03-31 21:29:51,728 [INFO] Sayfa 52 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:29:51,799 [INFO] Email yok, atlanan: 4
+2026-03-31 21:29:51,799 [INFO] 16 kayit yazildi (toplam: 883)
+2026-03-31 21:29:55,194 [INFO] Sayfa 53 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:29:55,241 [INFO] Email yok, atlanan: 1
+2026-03-31 21:29:55,241 [INFO] 19 kayit yazildi (toplam: 902)
+2026-03-31 21:30:00,489 [INFO] Sayfa 54 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:30:00,537 [INFO] Email yok, atlanan: 4
+2026-03-31 21:30:00,537 [INFO] 16 kayit yazildi (toplam: 918)
+2026-03-31 21:30:04,589 [INFO] Sayfa 55 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:30:04,635 [INFO] Email yok, atlanan: 4
+2026-03-31 21:30:04,635 [INFO] 16 kayit yazildi (toplam: 934)
+2026-03-31 21:30:08,666 [INFO] Sayfa 56 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:30:08,729 [INFO] Email yok, atlanan: 4
+2026-03-31 21:30:08,731 [INFO] 16 kayit yazildi (toplam: 950)
+2026-03-31 21:30:12,251 [INFO] Sayfa 57 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:30:12,314 [INFO] Email yok, atlanan: 7
+2026-03-31 21:30:12,314 [INFO] 13 kayit yazildi (toplam: 963)
+2026-03-31 21:30:15,855 [INFO] Sayfa 58 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:30:15,903 [INFO] Email yok, atlanan: 3
+2026-03-31 21:30:15,903 [INFO] 17 kayit yazildi (toplam: 980)
+2026-03-31 21:30:19,705 [INFO] Sayfa 59 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:30:19,783 [INFO] Email yok, atlanan: 3
+2026-03-31 21:30:19,783 [INFO] 17 kayit yazildi (toplam: 997)
+2026-03-31 21:30:23,295 [INFO] Sayfa 60 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:30:23,358 [INFO] Email yok, atlanan: 2
+2026-03-31 21:30:23,358 [INFO] 18 kayit yazildi (toplam: 1015)
+2026-03-31 21:30:27,566 [INFO] Sayfa 61 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:30:27,629 [INFO] Email yok, atlanan: 3
+2026-03-31 21:30:27,629 [INFO] 17 kayit yazildi (toplam: 1032)
+2026-03-31 21:30:31,483 [INFO] Sayfa 62 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:30:31,530 [INFO] Email yok, atlanan: 3
+2026-03-31 21:30:31,530 [INFO] 17 kayit yazildi (toplam: 1049)
+2026-03-31 21:30:35,111 [INFO] Sayfa 63 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:30:35,175 [INFO] Email yok, atlanan: 5
+2026-03-31 21:30:35,175 [INFO] 15 kayit yazildi (toplam: 1064)
+2026-03-31 21:30:38,902 [INFO] Sayfa 64 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:30:38,963 [INFO] Email yok, atlanan: 4
+2026-03-31 21:30:38,963 [INFO] 16 kayit yazildi (toplam: 1080)
+2026-03-31 21:30:42,601 [INFO] Sayfa 65 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:30:42,654 [INFO] Email yok, atlanan: 4
+2026-03-31 21:30:42,654 [INFO] 16 kayit yazildi (toplam: 1096)
+2026-03-31 21:30:46,688 [INFO] Sayfa 66 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:30:46,735 [INFO] Email yok, atlanan: 1
+2026-03-31 21:30:46,735 [INFO] 19 kayit yazildi (toplam: 1115)
+2026-03-31 21:30:50,535 [INFO] Sayfa 67 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:30:50,600 [INFO] Email yok, atlanan: 5
+2026-03-31 21:30:50,600 [INFO] 15 kayit yazildi (toplam: 1130)
+2026-03-31 21:30:57,736 [INFO] Sayfa 68 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:30:57,784 [INFO] Email yok, atlanan: 2
+2026-03-31 21:30:57,784 [INFO] 18 kayit yazildi (toplam: 1148)
+2026-03-31 21:31:03,875 [INFO] Sayfa 69 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:31:03,922 [INFO] Email yok, atlanan: 1
+2026-03-31 21:31:03,922 [INFO] 19 kayit yazildi (toplam: 1167)
+2026-03-31 21:31:07,688 [INFO] Sayfa 70 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:31:07,740 [INFO] Email yok, atlanan: 1
+2026-03-31 21:31:07,740 [INFO] 19 kayit yazildi (toplam: 1186)
+2026-03-31 21:31:14,468 [INFO] Sayfa 71 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:31:14,518 [INFO] Email yok, atlanan: 3
+2026-03-31 21:31:14,518 [INFO] 17 kayit yazildi (toplam: 1203)
+2026-03-31 21:31:18,311 [INFO] Sayfa 72 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:31:18,374 [INFO] Email yok, atlanan: 2
+2026-03-31 21:31:18,374 [INFO] 18 kayit yazildi (toplam: 1221)
+2026-03-31 21:31:22,186 [INFO] Sayfa 73 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:31:22,240 [INFO] Email yok, atlanan: 2
+2026-03-31 21:31:22,240 [INFO] 18 kayit yazildi (toplam: 1239)
+2026-03-31 21:31:26,464 [INFO] Sayfa 74 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:31:26,526 [INFO] Email yok, atlanan: 2
+2026-03-31 21:31:26,526 [INFO] 18 kayit yazildi (toplam: 1257)
+2026-03-31 21:31:31,842 [INFO] Sayfa 75 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:31:31,895 [INFO] Email yok, atlanan: 1
+2026-03-31 21:31:31,895 [INFO] 19 kayit yazildi (toplam: 1276)
+2026-03-31 21:31:40,120 [INFO] Sayfa 76 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:31:40,168 [INFO] Email yok, atlanan: 3
+2026-03-31 21:31:40,168 [INFO] 17 kayit yazildi (toplam: 1293)
+2026-03-31 21:31:47,069 [INFO] Sayfa 77 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:31:47,117 [INFO] Email yok, atlanan: 2
+2026-03-31 21:31:47,117 [INFO] 18 kayit yazildi (toplam: 1311)
+2026-03-31 21:31:58,636 [INFO] Sayfa 78 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:31:58,699 [INFO] Email yok, atlanan: 1
+2026-03-31 21:31:58,699 [INFO] 19 kayit yazildi (toplam: 1330)
+2026-03-31 21:32:14,866 [INFO] Sayfa 79 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:32:14,943 [INFO] Email yok, atlanan: 6
+2026-03-31 21:32:14,943 [INFO] 14 kayit yazildi (toplam: 1344)
+2026-03-31 21:32:22,191 [INFO] Sayfa 80 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:32:22,251 [INFO] Email yok, atlanan: 4
+2026-03-31 21:32:22,251 [INFO] 16 kayit yazildi (toplam: 1360)
+2026-03-31 21:32:26,422 [INFO] Sayfa 81 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:32:26,509 [INFO] Email yok, atlanan: 2
+2026-03-31 21:32:26,509 [INFO] 18 kayit yazildi (toplam: 1378)
+2026-03-31 21:32:31,939 [INFO] Sayfa 82 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:32:32,000 [INFO] Email yok, atlanan: 1
+2026-03-31 21:32:32,000 [INFO] 19 kayit yazildi (toplam: 1397)
+2026-03-31 21:32:36,520 [INFO] Sayfa 83 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:32:36,599 [INFO] Email yok, atlanan: 1
+2026-03-31 21:32:36,599 [INFO] 19 kayit yazildi (toplam: 1416)
+2026-03-31 21:32:40,786 [INFO] Sayfa 84 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:32:40,859 [INFO] Email yok, atlanan: 2
+2026-03-31 21:32:40,860 [INFO] 18 kayit yazildi (toplam: 1434)
+2026-03-31 21:32:45,848 [INFO] Sayfa 85 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:32:45,919 [INFO] Email yok, atlanan: 3
+2026-03-31 21:32:45,919 [INFO] 17 kayit yazildi (toplam: 1451)
+2026-03-31 21:32:50,059 [INFO] Sayfa 86 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:32:50,113 [INFO] Email yok, atlanan: 1
+2026-03-31 21:32:50,113 [INFO] 19 kayit yazildi (toplam: 1470)
+2026-03-31 21:32:54,720 [INFO] Sayfa 87 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:32:54,768 [INFO] Email yok, atlanan: 7
+2026-03-31 21:32:54,768 [INFO] 13 kayit yazildi (toplam: 1483)
+2026-03-31 21:32:59,429 [INFO] Sayfa 88 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:32:59,504 [INFO] Email yok, atlanan: 2
+2026-03-31 21:32:59,504 [INFO] 18 kayit yazildi (toplam: 1501)
+2026-03-31 21:33:04,515 [INFO] Sayfa 89 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:33:04,560 [INFO] Email yok, atlanan: 4
+2026-03-31 21:33:04,560 [INFO] 16 kayit yazildi (toplam: 1517)
+2026-03-31 21:33:09,671 [INFO] Sayfa 90 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:33:09,730 [INFO] Email yok, atlanan: 3
+2026-03-31 21:33:09,731 [INFO] 17 kayit yazildi (toplam: 1534)
+2026-03-31 21:33:14,220 [INFO] Sayfa 91 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:33:14,276 [INFO] Email yok, atlanan: 2
+2026-03-31 21:33:14,276 [INFO] 18 kayit yazildi (toplam: 1552)
+2026-03-31 21:33:18,886 [INFO] Sayfa 92 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:33:18,949 [INFO] Email yok, atlanan: 5
+2026-03-31 21:33:18,949 [INFO] 15 kayit yazildi (toplam: 1567)
+2026-03-31 21:33:23,190 [INFO] Sayfa 93 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:33:23,246 [INFO] Email yok, atlanan: 7
+2026-03-31 21:33:23,247 [INFO] 13 kayit yazildi (toplam: 1580)
+2026-03-31 21:33:27,703 [INFO] Sayfa 94 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:33:27,762 [INFO] Email yok, atlanan: 1
+2026-03-31 21:33:27,762 [INFO] 19 kayit yazildi (toplam: 1599)
+2026-03-31 21:33:32,617 [INFO] Sayfa 95 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:33:32,694 [INFO] Email yok, atlanan: 3
+2026-03-31 21:33:32,695 [INFO] 17 kayit yazildi (toplam: 1616)
+2026-03-31 21:33:37,259 [INFO] Sayfa 96 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:33:37,309 [INFO] Email yok, atlanan: 2
+2026-03-31 21:33:37,309 [INFO] 18 kayit yazildi (toplam: 1634)
+2026-03-31 21:33:41,669 [INFO] Sayfa 97 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:33:41,715 [INFO] Email yok, atlanan: 5
+2026-03-31 21:33:41,715 [INFO] 15 kayit yazildi (toplam: 1649)
+2026-03-31 21:34:11,786 [WARNING] Sayfa yuklenemedi, 10sn sonra tekrar: Message: timeout: Timed out receiving message from renderer: -0.000
+  (Session info: chrome=146.0.7680.165)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff651a129c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff65173a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff65149db2d]
+	chromedriver!(No symbol) [0x7ff65148a409]
+	chromedriver!(No symbol) [0x7ff65148a0f1]
+	chromedriver!(No symbol) [0x7ff651487d3b]
+	chromedriver!(No symbol) [0x7ff65148865f]
+	chromedriver!(No symbol) [0x7ff651497eca]
+	chromedriver!(No symbol) [0x7ff6514aedf7]
+	chromedriver!(No symbol) [0x7ff6514b654a]
+	chromedriver!(No symbol) [0x7ff651488e21]
+	chromedriver!(No symbol) [0x7ff6514aeb21]
+	chromedriver!(No symbol) [0x7ff651543a63]
+	chromedriver!(No symbol) [0x7ff6514e9298]
+	chromedriver!(No symbol) [0x7ff6514ea183]
+	chromedriver!GetHandleVerifier [0x7ff651a3de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff651a38588+313348]
+	chromedriver!GetHandleVerifier [0x7ff651a59d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff651756785+31545]
+	chromedriver!GetHandleVerifier [0x7ff65175facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff651743634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff6517437e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff651727e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffaef9e8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffafc8c48c+2c]
+
+2026-03-31 21:34:42,210 [INFO] Sayfa 98 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:34:42,272 [INFO] Email yok, atlanan: 2
+2026-03-31 21:34:42,272 [INFO] 18 kayit yazildi (toplam: 1667)
+2026-03-31 21:34:47,109 [INFO] Sayfa 99 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:34:47,171 [INFO] Email yok, atlanan: 2
+2026-03-31 21:34:47,171 [INFO] 18 kayit yazildi (toplam: 1685)
+2026-03-31 21:34:56,286 [INFO] Sayfa 100 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:34:56,347 [INFO] Email yok, atlanan: 3
+2026-03-31 21:34:56,347 [INFO] 17 kayit yazildi (toplam: 1702)
+2026-03-31 21:35:01,037 [INFO] Sayfa 101 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:35:01,092 [INFO] Email yok, atlanan: 1
+2026-03-31 21:35:01,092 [INFO] 19 kayit yazildi (toplam: 1721)
+2026-03-31 21:35:05,495 [INFO] Sayfa 102 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:35:05,574 [INFO] Email yok, atlanan: 4
+2026-03-31 21:35:05,574 [INFO] 16 kayit yazildi (toplam: 1737)
+2026-03-31 21:35:10,102 [INFO] Sayfa 103 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:35:10,166 [INFO] Email yok, atlanan: 3
+2026-03-31 21:35:10,166 [INFO] 17 kayit yazildi (toplam: 1754)
+2026-03-31 21:35:15,704 [INFO] Sayfa 104 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:35:15,752 [INFO] 20 kayit yazildi (toplam: 1774)
+2026-03-31 21:35:26,586 [INFO] Sayfa 105 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:35:26,649 [INFO] Email yok, atlanan: 2
+2026-03-31 21:35:26,649 [INFO] 18 kayit yazildi (toplam: 1792)
+2026-03-31 21:35:32,231 [INFO] Sayfa 106 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:35:32,293 [INFO] Email yok, atlanan: 4
+2026-03-31 21:35:32,293 [INFO] 16 kayit yazildi (toplam: 1808)
+2026-03-31 21:35:37,119 [INFO] Sayfa 107 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:35:37,180 [INFO] Email yok, atlanan: 2
+2026-03-31 21:35:37,180 [INFO] 18 kayit yazildi (toplam: 1826)
+2026-03-31 21:35:42,082 [INFO] Sayfa 108 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:35:42,139 [INFO] 20 kayit yazildi (toplam: 1846)
+2026-03-31 21:35:46,698 [INFO] Sayfa 109 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:35:46,766 [INFO] Email yok, atlanan: 3
+2026-03-31 21:35:46,766 [INFO] 17 kayit yazildi (toplam: 1863)
+2026-03-31 21:35:51,351 [INFO] Sayfa 110 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:35:51,414 [INFO] Email yok, atlanan: 3
+2026-03-31 21:35:51,415 [INFO] 17 kayit yazildi (toplam: 1880)
+2026-03-31 21:35:55,968 [INFO] Sayfa 111 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:35:56,032 [INFO] Email yok, atlanan: 2
+2026-03-31 21:35:56,032 [INFO] 18 kayit yazildi (toplam: 1898)
+2026-03-31 21:36:00,994 [INFO] Sayfa 112 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:36:01,055 [INFO] Email yok, atlanan: 2
+2026-03-31 21:36:01,055 [INFO] 18 kayit yazildi (toplam: 1916)
+2026-03-31 21:36:05,704 [INFO] Sayfa 113 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:36:05,767 [INFO] Email yok, atlanan: 4
+2026-03-31 21:36:05,767 [INFO] 16 kayit yazildi (toplam: 1932)
+2026-03-31 21:36:11,248 [INFO] Sayfa 114 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:36:11,307 [INFO] Email yok, atlanan: 4
+2026-03-31 21:36:11,307 [INFO] 16 kayit yazildi (toplam: 1948)
+2026-03-31 21:36:17,166 [INFO] Sayfa 115 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:36:17,219 [INFO] Email yok, atlanan: 7
+2026-03-31 21:36:17,219 [INFO] 13 kayit yazildi (toplam: 1961)
+2026-03-31 21:36:22,625 [INFO] Sayfa 116 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:36:22,689 [INFO] Email yok, atlanan: 2
+2026-03-31 21:36:22,689 [INFO] 18 kayit yazildi (toplam: 1979)
+2026-03-31 21:36:27,539 [INFO] Sayfa 117 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:36:27,597 [INFO] Email yok, atlanan: 3
+2026-03-31 21:36:27,597 [INFO] 17 kayit yazildi (toplam: 1996)
+2026-03-31 21:36:32,399 [INFO] Sayfa 118 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:36:32,458 [INFO] Email yok, atlanan: 6
+2026-03-31 21:36:32,458 [INFO] 14 kayit yazildi (toplam: 2010)
+2026-03-31 21:36:37,432 [INFO] Sayfa 119 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:36:37,494 [INFO] 20 kayit yazildi (toplam: 2030)
+2026-03-31 21:36:42,373 [INFO] Sayfa 120 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:36:42,437 [INFO] Email yok, atlanan: 1
+2026-03-31 21:36:42,437 [INFO] 19 kayit yazildi (toplam: 2049)
+2026-03-31 21:36:47,444 [INFO] Sayfa 121 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:36:47,491 [INFO] Email yok, atlanan: 1
+2026-03-31 21:36:47,491 [INFO] 19 kayit yazildi (toplam: 2068)
+2026-03-31 21:36:52,485 [INFO] Sayfa 122 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:36:52,542 [INFO] Email yok, atlanan: 4
+2026-03-31 21:36:52,542 [INFO] 16 kayit yazildi (toplam: 2084)
+2026-03-31 21:36:57,432 [INFO] Sayfa 123 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:36:57,500 [INFO] Email yok, atlanan: 8
+2026-03-31 21:36:57,500 [INFO] 12 kayit yazildi (toplam: 2096)
+2026-03-31 21:37:02,440 [INFO] Sayfa 124 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:37:02,496 [INFO] Email yok, atlanan: 7
+2026-03-31 21:37:02,496 [INFO] 13 kayit yazildi (toplam: 2109)
+2026-03-31 21:37:08,684 [INFO] Sayfa 125 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:37:08,746 [INFO] Email yok, atlanan: 5
+2026-03-31 21:37:08,746 [INFO] 15 kayit yazildi (toplam: 2124)
+2026-03-31 21:37:15,947 [INFO] Sayfa 126 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:37:16,003 [INFO] Email yok, atlanan: 2
+2026-03-31 21:37:16,003 [INFO] 18 kayit yazildi (toplam: 2142)
+2026-03-31 21:37:30,929 [INFO] Sayfa 127 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:37:30,993 [INFO] Email yok, atlanan: 2
+2026-03-31 21:37:30,993 [INFO] 18 kayit yazildi (toplam: 2160)
+2026-03-31 21:37:36,313 [INFO] Sayfa 128 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:37:36,362 [INFO] 20 kayit yazildi (toplam: 2180)
+2026-03-31 21:37:41,535 [INFO] Sayfa 129 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:37:41,593 [INFO] Email yok, atlanan: 2
+2026-03-31 21:37:41,593 [INFO] 18 kayit yazildi (toplam: 2198)
+2026-03-31 21:38:11,661 [WARNING] Sayfa yuklenemedi, 10sn sonra tekrar: Message: timeout: Timed out receiving message from renderer: -0.002
+  (Session info: chrome=146.0.7680.165)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff651a129c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff65173a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff65149db2d]
+	chromedriver!(No symbol) [0x7ff65148a409]
+	chromedriver!(No symbol) [0x7ff65148a0f1]
+	chromedriver!(No symbol) [0x7ff651487d3b]
+	chromedriver!(No symbol) [0x7ff65148865f]
+	chromedriver!(No symbol) [0x7ff651497eca]
+	chromedriver!(No symbol) [0x7ff6514aedf7]
+	chromedriver!(No symbol) [0x7ff6514b654a]
+	chromedriver!(No symbol) [0x7ff651488e21]
+	chromedriver!(No symbol) [0x7ff6514aeb21]
+	chromedriver!(No symbol) [0x7ff651543a63]
+	chromedriver!(No symbol) [0x7ff6514e9298]
+	chromedriver!(No symbol) [0x7ff6514ea183]
+	chromedriver!GetHandleVerifier [0x7ff651a3de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff651a38588+313348]
+	chromedriver!GetHandleVerifier [0x7ff651a59d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff651756785+31545]
+	chromedriver!GetHandleVerifier [0x7ff65175facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff651743634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff6517437e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff651727e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffaef9e8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffafc8c48c+2c]
+
+2026-03-31 21:38:27,719 [INFO] Sayfa 130 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:38:27,786 [INFO] 20 kayit yazildi (toplam: 2218)
+2026-03-31 21:38:32,872 [INFO] Sayfa 131 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:38:32,926 [INFO] Email yok, atlanan: 5
+2026-03-31 21:38:32,926 [INFO] 15 kayit yazildi (toplam: 2233)
+2026-03-31 21:38:37,933 [INFO] Sayfa 132 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:38:37,991 [INFO] Email yok, atlanan: 1
+2026-03-31 21:38:37,992 [INFO] 19 kayit yazildi (toplam: 2252)
+2026-03-31 21:38:44,430 [INFO] Sayfa 133 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:38:44,490 [INFO] Email yok, atlanan: 3
+2026-03-31 21:38:44,490 [INFO] 17 kayit yazildi (toplam: 2269)
+2026-03-31 21:39:14,527 [WARNING] Sayfa yuklenemedi, 10sn sonra tekrar: Message: timeout: Timed out receiving message from renderer: -0.000
+  (Session info: chrome=146.0.7680.165)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff651a129c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff65173a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff65149db2d]
+	chromedriver!(No symbol) [0x7ff65148a409]
+	chromedriver!(No symbol) [0x7ff65148a0f1]
+	chromedriver!(No symbol) [0x7ff651487d3b]
+	chromedriver!(No symbol) [0x7ff65148865f]
+	chromedriver!(No symbol) [0x7ff651497eca]
+	chromedriver!(No symbol) [0x7ff6514aedf7]
+	chromedriver!(No symbol) [0x7ff6514b654a]
+	chromedriver!(No symbol) [0x7ff651488e21]
+	chromedriver!(No symbol) [0x7ff6514aeb21]
+	chromedriver!(No symbol) [0x7ff651543a63]
+	chromedriver!(No symbol) [0x7ff6514e9298]
+	chromedriver!(No symbol) [0x7ff6514ea183]
+	chromedriver!GetHandleVerifier [0x7ff651a3de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff651a38588+313348]
+	chromedriver!GetHandleVerifier [0x7ff651a59d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff651756785+31545]
+	chromedriver!GetHandleVerifier [0x7ff65175facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff651743634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff6517437e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff651727e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffaef9e8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffafc8c48c+2c]
+
+2026-03-31 21:39:35,130 [INFO] Sayfa 134 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:39:35,176 [INFO] Email yok, atlanan: 4
+2026-03-31 21:39:35,176 [INFO] 16 kayit yazildi (toplam: 2285)
+2026-03-31 21:39:41,270 [INFO] Sayfa 135 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:39:41,319 [INFO] Email yok, atlanan: 1
+2026-03-31 21:39:41,319 [INFO] 19 kayit yazildi (toplam: 2304)
+2026-03-31 21:39:46,762 [INFO] Sayfa 136 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:39:46,816 [INFO] Email yok, atlanan: 4
+2026-03-31 21:39:46,816 [INFO] 16 kayit yazildi (toplam: 2320)
+2026-03-31 21:39:52,324 [INFO] Sayfa 137 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:39:52,404 [INFO] Email yok, atlanan: 3
+2026-03-31 21:39:52,404 [INFO] 17 kayit yazildi (toplam: 2337)
+2026-03-31 21:39:57,977 [INFO] Sayfa 138 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:39:58,029 [INFO] Email yok, atlanan: 3
+2026-03-31 21:39:58,031 [INFO] 17 kayit yazildi (toplam: 2354)
+2026-03-31 21:40:03,261 [INFO] Sayfa 139 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:40:03,302 [INFO] Email yok, atlanan: 3
+2026-03-31 21:40:03,302 [INFO] 17 kayit yazildi (toplam: 2371)
+2026-03-31 21:40:21,282 [INFO] Sayfa 140 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:40:21,327 [INFO] Email yok, atlanan: 4
+2026-03-31 21:40:21,327 [INFO] 16 kayit yazildi (toplam: 2387)
+2026-03-31 21:40:51,428 [WARNING] Sayfa yuklenemedi, 10sn sonra tekrar: Message: timeout: Timed out receiving message from renderer: 25.427
+  (Session info: chrome=146.0.7680.165)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff651a129c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff65173a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff65149db2d]
+	chromedriver!(No symbol) [0x7ff65148a409]
+	chromedriver!(No symbol) [0x7ff65148a0f1]
+	chromedriver!(No symbol) [0x7ff651487d3b]
+	chromedriver!(No symbol) [0x7ff65148865f]
+	chromedriver!(No symbol) [0x7ff651497eca]
+	chromedriver!(No symbol) [0x7ff6514aedf7]
+	chromedriver!(No symbol) [0x7ff6514b654a]
+	chromedriver!(No symbol) [0x7ff651488e21]
+	chromedriver!(No symbol) [0x7ff6514aeb21]
+	chromedriver!(No symbol) [0x7ff651543f14]
+	chromedriver!(No symbol) [0x7ff6514e9298]
+	chromedriver!(No symbol) [0x7ff6514ea183]
+	chromedriver!GetHandleVerifier [0x7ff651a3de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff651a38588+313348]
+	chromedriver!GetHandleVerifier [0x7ff651a59d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff651756785+31545]
+	chromedriver!GetHandleVerifier [0x7ff65175facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff651743634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff6517437e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff651727e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffaef9e8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffafc8c48c+2c]
+
+2026-03-31 21:41:11,813 [INFO] Sayfa 141 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:41:11,864 [INFO] Email yok, atlanan: 2
+2026-03-31 21:41:11,864 [INFO] 18 kayit yazildi (toplam: 2405)
+2026-03-31 21:41:17,121 [INFO] Sayfa 142 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:41:17,177 [INFO] Email yok, atlanan: 2
+2026-03-31 21:41:17,177 [INFO] 18 kayit yazildi (toplam: 2423)
+2026-03-31 21:41:22,592 [INFO] Sayfa 143 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:41:22,641 [INFO] Email yok, atlanan: 2
+2026-03-31 21:41:22,641 [INFO] 18 kayit yazildi (toplam: 2441)
+2026-03-31 21:41:28,458 [INFO] Sayfa 144 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:41:28,522 [INFO] Email yok, atlanan: 2
+2026-03-31 21:41:28,522 [INFO] 18 kayit yazildi (toplam: 2459)
+2026-03-31 21:41:33,937 [INFO] Sayfa 145 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:41:33,984 [INFO] Email yok, atlanan: 1
+2026-03-31 21:41:33,984 [INFO] 19 kayit yazildi (toplam: 2478)
+2026-03-31 21:41:39,346 [INFO] Sayfa 146 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:41:39,402 [INFO] Email yok, atlanan: 2
+2026-03-31 21:41:39,402 [INFO] 18 kayit yazildi (toplam: 2496)
+2026-03-31 21:41:44,741 [INFO] Sayfa 147 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:41:44,789 [INFO] Email yok, atlanan: 3
+2026-03-31 21:41:44,789 [INFO] 17 kayit yazildi (toplam: 2513)
+2026-03-31 21:41:50,299 [INFO] Sayfa 148 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:41:50,351 [INFO] Email yok, atlanan: 2
+2026-03-31 21:41:50,351 [INFO] 18 kayit yazildi (toplam: 2531)
+2026-03-31 21:41:56,809 [INFO] Sayfa 149 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:41:56,862 [INFO] Email yok, atlanan: 4
+2026-03-31 21:41:56,862 [INFO] 16 kayit yazildi (toplam: 2547)
+2026-03-31 21:42:02,463 [INFO] Sayfa 150 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:42:02,510 [INFO] Email yok, atlanan: 2
+2026-03-31 21:42:02,510 [INFO] 18 kayit yazildi (toplam: 2565)
+2026-03-31 21:42:08,128 [INFO] Sayfa 151 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:42:08,163 [INFO] Email yok, atlanan: 3
+2026-03-31 21:42:08,179 [INFO] 17 kayit yazildi (toplam: 2582)
+2026-03-31 21:42:13,753 [INFO] Sayfa 152 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:42:13,817 [INFO] 7 kayit yazildi (toplam: 2589)
+2026-03-31 21:42:13,832 [INFO] Son sayfa.
+2026-03-31 21:42:13,832 [INFO] Bu alan bitti: 2589 kayit
+2026-03-31 21:52:37,031 [INFO] TAMAM! Toplam 2589 kayit -> C:\Users\Can Arda\Desktop\Akademisyenİletişim Bilgisi Çekici\akademisyenler.csv
+2026-03-31 21:56:22,222 [INFO] YOK Akademik Scraper basliyor...
+2026-03-31 21:57:42,106 [INFO] Yeni CSV
+2026-03-31 21:58:18,292 [INFO] Tarama basliyor: https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:58:18,355 [INFO] Sayfa 1 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:58:18,410 [INFO] Email yok, atlanan: 2
+2026-03-31 21:58:18,410 [INFO] 18 kayit yazildi (toplam: 18)
+2026-03-31 21:58:27,454 [INFO] Sayfa 2 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:58:27,512 [INFO] Email yok, atlanan: 1
+2026-03-31 21:58:27,512 [INFO] 19 kayit yazildi (toplam: 37)
+2026-03-31 21:58:34,956 [INFO] Sayfa 3 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:58:35,011 [INFO] Email yok, atlanan: 2
+2026-03-31 21:58:35,011 [INFO] 18 kayit yazildi (toplam: 55)
+2026-03-31 21:58:38,924 [INFO] Sayfa 4 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:58:38,964 [INFO] 20 kayit yazildi (toplam: 75)
+2026-03-31 21:58:41,943 [INFO] Sayfa 5 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:58:41,987 [INFO] 20 kayit yazildi (toplam: 95)
+2026-03-31 21:58:44,547 [INFO] Sayfa 6 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:58:44,607 [INFO] Email yok, atlanan: 1
+2026-03-31 21:58:44,607 [INFO] 19 kayit yazildi (toplam: 114)
+2026-03-31 21:58:47,438 [INFO] Sayfa 7 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:58:47,487 [INFO] Email yok, atlanan: 3
+2026-03-31 21:58:47,487 [INFO] 17 kayit yazildi (toplam: 131)
+2026-03-31 21:58:50,465 [INFO] Sayfa 8 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:58:50,514 [INFO] Email yok, atlanan: 5
+2026-03-31 21:58:50,514 [INFO] 15 kayit yazildi (toplam: 146)
+2026-03-31 21:58:54,758 [INFO] Sayfa 9 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:58:54,804 [INFO] 20 kayit yazildi (toplam: 166)
+2026-03-31 21:59:10,959 [INFO] Sayfa 10 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:59:11,007 [INFO] Email yok, atlanan: 1
+2026-03-31 21:59:11,007 [INFO] 19 kayit yazildi (toplam: 185)
+2026-03-31 21:59:27,498 [INFO] Sayfa 11 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:59:27,558 [INFO] Email yok, atlanan: 3
+2026-03-31 21:59:27,558 [INFO] 17 kayit yazildi (toplam: 202)
+2026-03-31 21:59:30,366 [INFO] Sayfa 12 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:59:30,421 [INFO] Email yok, atlanan: 5
+2026-03-31 21:59:30,422 [INFO] 15 kayit yazildi (toplam: 217)
+2026-03-31 21:59:33,594 [INFO] Sayfa 13 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:59:33,657 [INFO] Email yok, atlanan: 2
+2026-03-31 21:59:33,657 [INFO] 18 kayit yazildi (toplam: 235)
+2026-03-31 21:59:36,888 [INFO] Sayfa 14 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:59:36,937 [INFO] Email yok, atlanan: 3
+2026-03-31 21:59:36,937 [INFO] 17 kayit yazildi (toplam: 252)
+2026-03-31 21:59:39,762 [INFO] Sayfa 15 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:59:39,817 [INFO] Email yok, atlanan: 4
+2026-03-31 21:59:39,817 [INFO] 16 kayit yazildi (toplam: 268)
+2026-03-31 21:59:42,963 [INFO] Sayfa 16 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:59:43,017 [INFO] Email yok, atlanan: 4
+2026-03-31 21:59:43,017 [INFO] 16 kayit yazildi (toplam: 284)
+2026-03-31 21:59:45,848 [INFO] Sayfa 17 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:59:45,907 [INFO] Email yok, atlanan: 8
+2026-03-31 21:59:45,907 [INFO] 12 kayit yazildi (toplam: 296)
+2026-03-31 21:59:59,758 [INFO] Sayfa 18 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 21:59:59,829 [INFO] Email yok, atlanan: 4
+2026-03-31 21:59:59,829 [INFO] 16 kayit yazildi (toplam: 312)
+2026-03-31 22:00:06,733 [INFO] Sayfa 19 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:00:06,780 [INFO] Email yok, atlanan: 5
+2026-03-31 22:00:06,780 [INFO] 15 kayit yazildi (toplam: 327)
+2026-03-31 22:00:10,650 [INFO] Sayfa 20 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:00:10,702 [INFO] Email yok, atlanan: 2
+2026-03-31 22:00:10,702 [INFO] 18 kayit yazildi (toplam: 345)
+2026-03-31 22:00:13,658 [INFO] Sayfa 21 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:00:13,709 [INFO] Email yok, atlanan: 6
+2026-03-31 22:00:13,709 [INFO] 14 kayit yazildi (toplam: 359)
+2026-03-31 22:00:17,898 [INFO] Sayfa 22 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:00:17,949 [INFO] Email yok, atlanan: 5
+2026-03-31 22:00:17,949 [INFO] 15 kayit yazildi (toplam: 374)
+2026-03-31 22:00:20,968 [INFO] Sayfa 23 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:00:21,028 [INFO] Email yok, atlanan: 2
+2026-03-31 22:00:21,028 [INFO] 18 kayit yazildi (toplam: 392)
+2026-03-31 22:00:24,074 [INFO] Sayfa 24 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:00:24,130 [INFO] Email yok, atlanan: 2
+2026-03-31 22:00:24,130 [INFO] 18 kayit yazildi (toplam: 410)
+2026-03-31 22:00:27,070 [INFO] Sayfa 25 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:00:27,133 [INFO] Email yok, atlanan: 5
+2026-03-31 22:00:27,133 [INFO] 15 kayit yazildi (toplam: 425)
+2026-03-31 22:00:36,702 [INFO] Sayfa 26 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:00:36,781 [INFO] 20 kayit yazildi (toplam: 445)
+2026-03-31 22:00:40,233 [INFO] Sayfa 27 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:00:40,301 [INFO] Email yok, atlanan: 3
+2026-03-31 22:00:40,301 [INFO] 17 kayit yazildi (toplam: 462)
+2026-03-31 22:00:44,780 [INFO] Sayfa 28 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:00:44,827 [INFO] Email yok, atlanan: 4
+2026-03-31 22:00:44,827 [INFO] 16 kayit yazildi (toplam: 478)
+2026-03-31 22:01:07,850 [INFO] Sayfa 29 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:01:07,897 [INFO] Email yok, atlanan: 5
+2026-03-31 22:01:07,897 [INFO] 15 kayit yazildi (toplam: 493)
+2026-03-31 22:01:20,122 [INFO] Sayfa 30 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:01:20,169 [INFO] Email yok, atlanan: 5
+2026-03-31 22:01:20,169 [INFO] 15 kayit yazildi (toplam: 508)
+2026-03-31 22:01:24,715 [INFO] Sayfa 31 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:01:24,764 [INFO] 20 kayit yazildi (toplam: 528)
+2026-03-31 22:01:30,208 [INFO] Sayfa 32 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:01:30,245 [INFO] Email yok, atlanan: 3
+2026-03-31 22:01:30,245 [INFO] 17 kayit yazildi (toplam: 545)
+2026-03-31 22:01:43,647 [INFO] Sayfa 33 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:01:43,694 [INFO] Email yok, atlanan: 2
+2026-03-31 22:01:43,694 [INFO] 18 kayit yazildi (toplam: 563)
+2026-03-31 22:01:48,701 [INFO] Sayfa 34 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:01:48,764 [INFO] Email yok, atlanan: 3
+2026-03-31 22:01:48,764 [INFO] 17 kayit yazildi (toplam: 580)
+2026-03-31 22:01:53,106 [INFO] Sayfa 35 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:01:53,161 [INFO] Email yok, atlanan: 6
+2026-03-31 22:01:53,161 [INFO] 14 kayit yazildi (toplam: 594)
+2026-03-31 22:01:58,628 [INFO] Sayfa 36 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:01:58,679 [INFO] Email yok, atlanan: 3
+2026-03-31 22:01:58,679 [INFO] 17 kayit yazildi (toplam: 611)
+2026-03-31 22:02:02,367 [INFO] Sayfa 37 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:02:02,414 [INFO] Email yok, atlanan: 2
+2026-03-31 22:02:02,414 [INFO] 18 kayit yazildi (toplam: 629)
+2026-03-31 22:02:06,055 [INFO] Sayfa 38 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:02:06,100 [INFO] Email yok, atlanan: 3
+2026-03-31 22:02:06,100 [INFO] 17 kayit yazildi (toplam: 646)
+2026-03-31 22:02:17,820 [INFO] Sayfa 39 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:02:17,872 [INFO] Email yok, atlanan: 3
+2026-03-31 22:02:17,872 [INFO] 17 kayit yazildi (toplam: 663)
+2026-03-31 22:02:23,488 [INFO] Sayfa 40 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:02:23,535 [INFO] Email yok, atlanan: 3
+2026-03-31 22:02:23,535 [INFO] 17 kayit yazildi (toplam: 680)
+2026-03-31 22:02:39,373 [INFO] Sayfa 41 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:02:39,443 [INFO] Email yok, atlanan: 2
+2026-03-31 22:02:39,443 [INFO] 18 kayit yazildi (toplam: 698)
+2026-03-31 22:03:09,474 [WARNING] Sayfa yuklenemedi, 10sn sonra tekrar: Message: timeout: Timed out receiving message from renderer: 0.458
+  (Session info: chrome=146.0.7680.165)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff651a129c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff65173a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff65149db2d]
+	chromedriver!(No symbol) [0x7ff65148a409]
+	chromedriver!(No symbol) [0x7ff65148a0f1]
+	chromedriver!(No symbol) [0x7ff651487d3b]
+	chromedriver!(No symbol) [0x7ff65148865f]
+	chromedriver!(No symbol) [0x7ff651497eca]
+	chromedriver!(No symbol) [0x7ff6514aedf7]
+	chromedriver!(No symbol) [0x7ff6514b654a]
+	chromedriver!(No symbol) [0x7ff651488e21]
+	chromedriver!(No symbol) [0x7ff6514aeb21]
+	chromedriver!(No symbol) [0x7ff651543f14]
+	chromedriver!(No symbol) [0x7ff6514e9298]
+	chromedriver!(No symbol) [0x7ff6514ea183]
+	chromedriver!GetHandleVerifier [0x7ff651a3de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff651a38588+313348]
+	chromedriver!GetHandleVerifier [0x7ff651a59d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff651756785+31545]
+	chromedriver!GetHandleVerifier [0x7ff65175facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff651743634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff6517437e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff651727e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffaef9e8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffafc8c48c+2c]
+
+2026-03-31 22:03:49,480 [WARNING] Sayfa yuklenemedi, 10sn sonra tekrar: Message: timeout: Timed out receiving message from renderer: -0.003
+  (Session info: chrome=146.0.7680.165)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff651a129c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff65173a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff65149db2d]
+	chromedriver!(No symbol) [0x7ff65148a409]
+	chromedriver!(No symbol) [0x7ff65148a0f1]
+	chromedriver!(No symbol) [0x7ff651487d3b]
+	chromedriver!(No symbol) [0x7ff65148865f]
+	chromedriver!(No symbol) [0x7ff651497eca]
+	chromedriver!(No symbol) [0x7ff6514aedf7]
+	chromedriver!(No symbol) [0x7ff6514b654a]
+	chromedriver!(No symbol) [0x7ff651488e21]
+	chromedriver!(No symbol) [0x7ff6514aeb21]
+	chromedriver!(No symbol) [0x7ff651543a63]
+	chromedriver!(No symbol) [0x7ff6514e9298]
+	chromedriver!(No symbol) [0x7ff6514ea183]
+	chromedriver!GetHandleVerifier [0x7ff651a3de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff651a38588+313348]
+	chromedriver!GetHandleVerifier [0x7ff651a59d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff651756785+31545]
+	chromedriver!GetHandleVerifier [0x7ff65175facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff651743634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff6517437e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff651727e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffaef9e8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffafc8c48c+2c]
+
+2026-03-31 22:04:27,986 [INFO] Sayfa 42 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:04:28,025 [INFO] Email yok, atlanan: 7
+2026-03-31 22:04:28,025 [INFO] 13 kayit yazildi (toplam: 711)
+2026-03-31 22:04:40,830 [INFO] Sayfa 43 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:04:40,872 [INFO] Email yok, atlanan: 4
+2026-03-31 22:04:40,872 [INFO] 16 kayit yazildi (toplam: 727)
+2026-03-31 22:04:46,447 [INFO] Sayfa 44 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:04:46,513 [INFO] Email yok, atlanan: 4
+2026-03-31 22:04:46,513 [INFO] 16 kayit yazildi (toplam: 743)
+2026-03-31 22:05:05,735 [INFO] Sayfa 45 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:05:05,782 [INFO] Email yok, atlanan: 5
+2026-03-31 22:05:05,782 [INFO] 15 kayit yazildi (toplam: 758)
+2026-03-31 22:05:30,144 [INFO] Sayfa 46 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:05:30,185 [INFO] Email yok, atlanan: 3
+2026-03-31 22:05:30,185 [INFO] 17 kayit yazildi (toplam: 775)
+2026-03-31 22:05:40,550 [INFO] Sayfa 47 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:05:40,607 [INFO] Email yok, atlanan: 2
+2026-03-31 22:05:40,607 [INFO] 18 kayit yazildi (toplam: 793)
+2026-03-31 22:05:51,007 [INFO] Sayfa 48 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:05:51,049 [INFO] Email yok, atlanan: 9
+2026-03-31 22:05:51,049 [INFO] 11 kayit yazildi (toplam: 804)
+2026-03-31 22:05:56,276 [INFO] Sayfa 49 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:05:56,344 [INFO] Email yok, atlanan: 9
+2026-03-31 22:05:56,347 [INFO] 11 kayit yazildi (toplam: 815)
+2026-03-31 22:06:17,585 [INFO] Sayfa 50 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:06:17,646 [INFO] Email yok, atlanan: 10
+2026-03-31 22:06:17,646 [INFO] 10 kayit yazildi (toplam: 825)
+2026-03-31 22:06:26,742 [INFO] Sayfa 51 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:06:26,789 [INFO] Email yok, atlanan: 3
+2026-03-31 22:06:26,789 [INFO] 17 kayit yazildi (toplam: 842)
+2026-03-31 22:06:40,473 [INFO] Sayfa 52 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:06:40,527 [INFO] Email yok, atlanan: 4
+2026-03-31 22:06:40,527 [INFO] 16 kayit yazildi (toplam: 858)
+2026-03-31 22:06:44,888 [INFO] Sayfa 53 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:06:44,935 [INFO] Email yok, atlanan: 5
+2026-03-31 22:06:44,935 [INFO] 15 kayit yazildi (toplam: 873)
+2026-03-31 22:06:50,003 [INFO] Sayfa 54 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:06:50,045 [INFO] Email yok, atlanan: 5
+2026-03-31 22:06:50,045 [INFO] 15 kayit yazildi (toplam: 888)
+2026-03-31 22:07:11,067 [INFO] Sayfa 55 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:07:11,114 [INFO] Email yok, atlanan: 3
+2026-03-31 22:07:11,114 [INFO] 17 kayit yazildi (toplam: 905)
+2026-03-31 22:07:15,159 [INFO] Sayfa 56 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:07:15,222 [INFO] Email yok, atlanan: 4
+2026-03-31 22:07:15,222 [INFO] 16 kayit yazildi (toplam: 921)
+2026-03-31 22:07:19,615 [INFO] Sayfa 57 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:07:19,662 [INFO] Email yok, atlanan: 2
+2026-03-31 22:07:19,662 [INFO] 18 kayit yazildi (toplam: 939)
+2026-03-31 22:07:25,101 [INFO] Sayfa 58 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:07:25,144 [INFO] Email yok, atlanan: 2
+2026-03-31 22:07:25,144 [INFO] 18 kayit yazildi (toplam: 957)
+2026-03-31 22:07:31,840 [INFO] Sayfa 59 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:07:31,887 [INFO] Email yok, atlanan: 4
+2026-03-31 22:07:31,887 [INFO] 16 kayit yazildi (toplam: 973)
+2026-03-31 22:07:37,236 [INFO] Sayfa 60 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:07:37,288 [INFO] Email yok, atlanan: 9
+2026-03-31 22:07:37,288 [INFO] 11 kayit yazildi (toplam: 984)
+2026-03-31 22:07:41,692 [INFO] Sayfa 61 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:07:41,746 [INFO] Email yok, atlanan: 4
+2026-03-31 22:07:41,746 [INFO] 16 kayit yazildi (toplam: 1000)
+2026-03-31 22:07:46,330 [INFO] Sayfa 62 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:07:46,375 [INFO] Email yok, atlanan: 6
+2026-03-31 22:07:46,375 [INFO] 14 kayit yazildi (toplam: 1014)
+2026-03-31 22:08:01,716 [INFO] Sayfa 63 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:08:01,767 [INFO] Email yok, atlanan: 2
+2026-03-31 22:08:01,767 [INFO] 18 kayit yazildi (toplam: 1032)
+2026-03-31 22:08:05,623 [INFO] Sayfa 64 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:08:05,692 [INFO] Email yok, atlanan: 4
+2026-03-31 22:08:05,692 [INFO] 16 kayit yazildi (toplam: 1048)
+2026-03-31 22:08:09,502 [INFO] Sayfa 65 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:08:09,545 [INFO] Email yok, atlanan: 1
+2026-03-31 22:08:09,545 [INFO] 19 kayit yazildi (toplam: 1067)
+2026-03-31 22:08:13,357 [INFO] Sayfa 66 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:08:13,405 [INFO] Email yok, atlanan: 4
+2026-03-31 22:08:13,405 [INFO] 16 kayit yazildi (toplam: 1083)
+2026-03-31 22:08:18,230 [INFO] Sayfa 67 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:08:18,280 [INFO] Email yok, atlanan: 2
+2026-03-31 22:08:18,280 [INFO] 18 kayit yazildi (toplam: 1101)
+2026-03-31 22:08:22,210 [INFO] Sayfa 68 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:08:22,253 [INFO] Email yok, atlanan: 2
+2026-03-31 22:08:22,253 [INFO] 18 kayit yazildi (toplam: 1119)
+2026-03-31 22:08:27,360 [INFO] Sayfa 69 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:08:27,417 [INFO] Email yok, atlanan: 7
+2026-03-31 22:08:27,417 [INFO] 13 kayit yazildi (toplam: 1132)
+2026-03-31 22:08:31,215 [INFO] Sayfa 70 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:08:31,264 [INFO] Email yok, atlanan: 3
+2026-03-31 22:08:31,264 [INFO] 17 kayit yazildi (toplam: 1149)
+2026-03-31 22:08:35,619 [INFO] Sayfa 71 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:08:35,665 [INFO] Email yok, atlanan: 5
+2026-03-31 22:08:35,665 [INFO] 15 kayit yazildi (toplam: 1164)
+2026-03-31 22:08:39,459 [INFO] Sayfa 72 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:08:39,521 [INFO] Email yok, atlanan: 8
+2026-03-31 22:08:39,521 [INFO] 12 kayit yazildi (toplam: 1176)
+2026-03-31 22:08:43,373 [INFO] Sayfa 73 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:08:43,404 [INFO] Email yok, atlanan: 2
+2026-03-31 22:08:43,404 [INFO] 3 kayit yazildi (toplam: 1179)
+2026-03-31 22:08:43,453 [INFO] Son sayfa.
+2026-03-31 22:08:43,453 [INFO] Bu alan bitti: 1179 kayit
+2026-03-31 22:09:06,463 [INFO] TAMAM! Toplam 1179 kayit -> C:\Users\Can Arda\Desktop\Akademisyenİletişim Bilgisi Çekici\akademisyenler.csv
+2026-03-31 22:09:35,714 [INFO] YOK Akademik Scraper basliyor...
+2026-03-31 22:10:16,789 [INFO] Yeni CSV
+2026-03-31 22:10:35,878 [INFO] Tarama basliyor: https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:10:35,938 [INFO] Sayfa 1 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:10:35,988 [INFO] Email yok, atlanan: 1
+2026-03-31 22:10:35,988 [INFO] 19 kayit yazildi (toplam: 19)
+2026-03-31 22:10:40,454 [INFO] Sayfa 2 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:10:40,499 [INFO] Email yok, atlanan: 2
+2026-03-31 22:10:40,499 [INFO] 18 kayit yazildi (toplam: 37)
+2026-03-31 22:11:00,036 [INFO] Sayfa 3 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:11:00,090 [INFO] Email yok, atlanan: 1
+2026-03-31 22:11:00,090 [INFO] 19 kayit yazildi (toplam: 56)
+2026-03-31 22:11:05,010 [INFO] Sayfa 4 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:11:05,042 [INFO] Email yok, atlanan: 2
+2026-03-31 22:11:05,042 [INFO] 18 kayit yazildi (toplam: 74)
+2026-03-31 22:11:09,196 [INFO] Sayfa 5 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:11:09,248 [INFO] Email yok, atlanan: 5
+2026-03-31 22:11:09,248 [INFO] 15 kayit yazildi (toplam: 89)
+2026-03-31 22:11:11,782 [INFO] Sayfa 6 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:11:11,825 [INFO] Email yok, atlanan: 2
+2026-03-31 22:11:11,825 [INFO] 18 kayit yazildi (toplam: 107)
+2026-03-31 22:11:14,389 [INFO] Sayfa 7 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:11:14,424 [INFO] Email yok, atlanan: 3
+2026-03-31 22:11:14,424 [INFO] 17 kayit yazildi (toplam: 124)
+2026-03-31 22:11:17,009 [INFO] Sayfa 8 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:11:17,048 [INFO] Email yok, atlanan: 3
+2026-03-31 22:11:17,048 [INFO] 17 kayit yazildi (toplam: 141)
+2026-03-31 22:11:19,496 [INFO] Sayfa 9 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:11:19,538 [INFO] Email yok, atlanan: 2
+2026-03-31 22:11:19,538 [INFO] 18 kayit yazildi (toplam: 159)
+2026-03-31 22:11:22,018 [INFO] Sayfa 10 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:11:22,059 [INFO] Email yok, atlanan: 1
+2026-03-31 22:11:22,059 [INFO] 19 kayit yazildi (toplam: 178)
+2026-03-31 22:11:24,745 [INFO] Sayfa 11 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:11:24,784 [INFO] 20 kayit yazildi (toplam: 198)
+2026-03-31 22:11:30,968 [INFO] Sayfa 12 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:11:31,029 [INFO] Email yok, atlanan: 1
+2026-03-31 22:11:31,029 [INFO] 19 kayit yazildi (toplam: 217)
+2026-03-31 22:11:38,312 [INFO] Sayfa 13 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:11:38,359 [INFO] Email yok, atlanan: 2
+2026-03-31 22:11:38,359 [INFO] 18 kayit yazildi (toplam: 235)
+2026-03-31 22:11:41,493 [INFO] Sayfa 14 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:11:41,526 [INFO] Email yok, atlanan: 9
+2026-03-31 22:11:41,526 [INFO] 11 kayit yazildi (toplam: 246)
+2026-03-31 22:11:44,837 [INFO] Sayfa 15 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:11:44,885 [INFO] Email yok, atlanan: 3
+2026-03-31 22:11:44,885 [INFO] 17 kayit yazildi (toplam: 263)
+2026-03-31 22:11:47,876 [INFO] Sayfa 16 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:11:47,924 [INFO] Email yok, atlanan: 1
+2026-03-31 22:11:47,924 [INFO] 19 kayit yazildi (toplam: 282)
+2026-03-31 22:11:50,902 [INFO] Sayfa 17 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:11:50,950 [INFO] Email yok, atlanan: 2
+2026-03-31 22:11:50,950 [INFO] 18 kayit yazildi (toplam: 300)
+2026-03-31 22:11:53,916 [INFO] Sayfa 18 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:11:53,968 [INFO] 20 kayit yazildi (toplam: 320)
+2026-03-31 22:11:57,036 [INFO] Sayfa 19 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:11:57,085 [INFO] 20 kayit yazildi (toplam: 340)
+2026-03-31 22:11:59,917 [INFO] Sayfa 20 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:11:59,979 [INFO] Email yok, atlanan: 2
+2026-03-31 22:11:59,979 [INFO] 18 kayit yazildi (toplam: 358)
+2026-03-31 22:12:02,834 [INFO] Sayfa 21 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:12:02,881 [INFO] Email yok, atlanan: 2
+2026-03-31 22:12:02,881 [INFO] 18 kayit yazildi (toplam: 376)
+2026-03-31 22:12:05,760 [INFO] Sayfa 22 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:12:05,807 [INFO] 20 kayit yazildi (toplam: 396)
+2026-03-31 22:12:08,734 [INFO] Sayfa 23 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:12:08,769 [INFO] Email yok, atlanan: 5
+2026-03-31 22:12:08,769 [INFO] 15 kayit yazildi (toplam: 411)
+2026-03-31 22:12:11,622 [INFO] Sayfa 24 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:12:11,671 [INFO] Email yok, atlanan: 1
+2026-03-31 22:12:11,671 [INFO] 19 kayit yazildi (toplam: 430)
+2026-03-31 22:12:15,481 [INFO] Sayfa 25 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:12:15,526 [INFO] Email yok, atlanan: 1
+2026-03-31 22:12:15,526 [INFO] 19 kayit yazildi (toplam: 449)
+2026-03-31 22:12:29,208 [INFO] Sayfa 26 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:12:29,262 [INFO] Email yok, atlanan: 5
+2026-03-31 22:12:29,262 [INFO] 15 kayit yazildi (toplam: 464)
+2026-03-31 22:12:32,452 [INFO] Sayfa 27 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:12:32,507 [INFO] Email yok, atlanan: 7
+2026-03-31 22:12:32,507 [INFO] 13 kayit yazildi (toplam: 477)
+2026-03-31 22:12:37,062 [INFO] Sayfa 28 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:12:37,136 [INFO] Email yok, atlanan: 4
+2026-03-31 22:12:37,136 [INFO] 16 kayit yazildi (toplam: 493)
+2026-03-31 22:12:40,425 [INFO] Sayfa 29 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:12:40,461 [INFO] Email yok, atlanan: 1
+2026-03-31 22:12:40,461 [INFO] 19 kayit yazildi (toplam: 512)
+2026-03-31 22:12:43,971 [INFO] Sayfa 30 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:12:44,011 [INFO] Email yok, atlanan: 3
+2026-03-31 22:12:44,011 [INFO] 17 kayit yazildi (toplam: 529)
+2026-03-31 22:12:47,163 [INFO] Sayfa 31 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:12:47,197 [INFO] Email yok, atlanan: 2
+2026-03-31 22:12:47,197 [INFO] 18 kayit yazildi (toplam: 547)
+2026-03-31 22:12:50,635 [INFO] Sayfa 32 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:12:50,682 [INFO] Email yok, atlanan: 6
+2026-03-31 22:12:50,682 [INFO] 14 kayit yazildi (toplam: 561)
+2026-03-31 22:12:58,930 [INFO] Sayfa 33 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:12:58,977 [INFO] Email yok, atlanan: 7
+2026-03-31 22:12:58,977 [INFO] 13 kayit yazildi (toplam: 574)
+2026-03-31 22:13:06,858 [INFO] Sayfa 34 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:13:06,917 [INFO] Email yok, atlanan: 1
+2026-03-31 22:13:06,917 [INFO] 19 kayit yazildi (toplam: 593)
+2026-03-31 22:13:10,062 [INFO] Sayfa 35 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:13:10,106 [INFO] Email yok, atlanan: 3
+2026-03-31 22:13:10,106 [INFO] 17 kayit yazildi (toplam: 610)
+2026-03-31 22:13:14,176 [INFO] Sayfa 36 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:13:14,225 [INFO] Email yok, atlanan: 1
+2026-03-31 22:13:14,225 [INFO] 19 kayit yazildi (toplam: 629)
+2026-03-31 22:13:18,182 [INFO] Sayfa 37 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:13:18,257 [INFO] Email yok, atlanan: 1
+2026-03-31 22:13:18,257 [INFO] 19 kayit yazildi (toplam: 648)
+2026-03-31 22:13:21,492 [INFO] Sayfa 38 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:13:21,531 [INFO] Email yok, atlanan: 5
+2026-03-31 22:13:21,531 [INFO] 15 kayit yazildi (toplam: 663)
+2026-03-31 22:13:24,819 [INFO] Sayfa 39 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:13:24,868 [INFO] Email yok, atlanan: 3
+2026-03-31 22:13:24,868 [INFO] 17 kayit yazildi (toplam: 680)
+2026-03-31 22:13:28,063 [INFO] Sayfa 40 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:13:28,103 [INFO] Email yok, atlanan: 4
+2026-03-31 22:13:28,103 [INFO] 16 kayit yazildi (toplam: 696)
+2026-03-31 22:13:31,502 [INFO] Sayfa 41 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:13:31,548 [INFO] Email yok, atlanan: 4
+2026-03-31 22:13:31,548 [INFO] 16 kayit yazildi (toplam: 712)
+2026-03-31 22:13:35,311 [INFO] Sayfa 42 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:13:35,360 [INFO] Email yok, atlanan: 3
+2026-03-31 22:13:35,360 [INFO] 17 kayit yazildi (toplam: 729)
+2026-03-31 22:13:38,633 [INFO] Sayfa 43 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:13:38,680 [INFO] Email yok, atlanan: 4
+2026-03-31 22:13:38,680 [INFO] 16 kayit yazildi (toplam: 745)
+2026-03-31 22:13:41,950 [INFO] Sayfa 44 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:13:41,989 [INFO] Email yok, atlanan: 4
+2026-03-31 22:13:41,989 [INFO] 16 kayit yazildi (toplam: 761)
+2026-03-31 22:13:45,212 [INFO] Sayfa 45 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:13:45,261 [INFO] Email yok, atlanan: 5
+2026-03-31 22:13:45,261 [INFO] 15 kayit yazildi (toplam: 776)
+2026-03-31 22:13:48,632 [INFO] Sayfa 46 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:13:48,679 [INFO] Email yok, atlanan: 7
+2026-03-31 22:13:48,679 [INFO] 13 kayit yazildi (toplam: 789)
+2026-03-31 22:13:52,031 [INFO] Sayfa 47 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:13:52,074 [INFO] Email yok, atlanan: 6
+2026-03-31 22:13:52,074 [INFO] 14 kayit yazildi (toplam: 803)
+2026-03-31 22:13:55,632 [INFO] Sayfa 48 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:13:55,674 [INFO] Email yok, atlanan: 3
+2026-03-31 22:13:55,674 [INFO] 17 kayit yazildi (toplam: 820)
+2026-03-31 22:13:59,000 [INFO] Sayfa 49 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:13:59,041 [INFO] Email yok, atlanan: 3
+2026-03-31 22:13:59,041 [INFO] 10 kayit yazildi (toplam: 830)
+2026-03-31 22:13:59,121 [INFO] Son sayfa.
+2026-03-31 22:13:59,121 [INFO] Bu alan bitti: 830 kayit
+2026-03-31 22:15:11,571 [INFO] TAMAM! Toplam 830 kayit -> C:\Users\Can Arda\Desktop\Akademisyenİletişim Bilgisi Çekici\akademisyenler.csv
+2026-03-31 22:15:46,032 [INFO] YOK Akademik Scraper basliyor...
+2026-03-31 22:16:42,145 [INFO] Yeni CSV
+2026-03-31 22:17:56,798 [INFO] Tarama basliyor: https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:17:56,850 [INFO] Sayfa 1 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:17:56,882 [INFO] Email yok, atlanan: 4
+2026-03-31 22:17:56,882 [INFO] 16 kayit yazildi (toplam: 16)
+2026-03-31 22:18:00,469 [INFO] Sayfa 2 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:18:00,495 [INFO] Email yok, atlanan: 2
+2026-03-31 22:18:00,511 [INFO] 18 kayit yazildi (toplam: 34)
+2026-03-31 22:18:02,918 [INFO] Sayfa 3 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:18:02,963 [INFO] Email yok, atlanan: 2
+2026-03-31 22:18:02,963 [INFO] 18 kayit yazildi (toplam: 52)
+2026-03-31 22:18:05,158 [INFO] Sayfa 4 -- https://akademik.yok.gov.tr/AkademikArama/view/searchResultviewListAuthorAndScFi
+2026-03-31 22:18:05,176 [INFO] 3 kayit yazildi (toplam: 55)
+2026-03-31 22:18:05,216 [INFO] Son sayfa.
+2026-03-31 22:18:05,216 [INFO] Bu alan bitti: 55 kayit
+2026-03-31 22:20:41,610 [INFO] TAMAM! Toplam 55 kayit -> C:\Users\Can Arda\Desktop\Akademisyenİletişim Bilgisi Çekici\akademisyenler.csv
+2026-03-31 22:25:39,263 [INFO] YOK Akademik Scraper basliyor...
+2026-03-31 22:25:51,203 [INFO] Yeni CSV
+2026-03-31 22:27:39,019 [INFO] Durduruldu.
+2026-03-31 22:27:39,023 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None)': /session/54c1085cfc1fb916a5069e522ec5a2c6
+2026-03-31 22:31:42,419 [INFO] YOK Akademik Scraper basliyor...
+2026-03-31 22:34:57,078 [INFO] YOK Akademik Scraper basliyor...
+2026-03-31 22:35:02,331 [INFO] Yeni CSV
