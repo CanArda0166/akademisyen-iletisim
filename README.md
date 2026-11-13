@@ -5,7 +5,6 @@
 >
 > ---
 > 
-> [!CAUTION]
 > Öncelikle main.py dosyası çalıştırılmalı ardından sırası ile :
 > 1) Yeni bir dosya oluşturulup oluşturulmayacağı seçilmeli. [n/d]
 > 2) "Temel bilimler" menüsü altından istenilen bölüm seçilmeli. Ve ardından terminalden enter tuşuna basılmalı
