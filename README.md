@@ -1,7 +1,10 @@
 # Akademik Bilgi İşleme Servisi
 ---
 > [!CAUTION]
-> Öncelikle Feedbackler için çok teşekkür ederim. Ancak şuan web sayfasının yapısı güncellendiği için web-scraping işlemi yapılamadığından veriler düzgün çekilemiyor. En kısa zamanda güncellenerek kullanıma tekrar sunulacaktır. 
+> Öncelikle Feedbackler için çok teşekkür ederim. Ancak şuan web sayfasının yapısı güncellendiği için web-scraping işlemi yapılamadığından veriler düzgün çekilemiyor. En kısa zamanda güncellenerek kullanıma tekrar sunulacaktır.
+>
+> ---
+> 
 > [!CAUTION]
 > Öncelikle main.py dosyası çalıştırılmalı ardından sırası ile :
 > 1) Yeni bir dosya oluşturulup oluşturulmayacağı seçilmeli. [n/d]
