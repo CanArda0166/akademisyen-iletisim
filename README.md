@@ -1,6 +1,8 @@
 # Akademik Bilgi İşleme Servisi
 ---
 > [!CAUTION]
+> Öncelikle Feedbackler için çok teşekkür ederim. Ancak şuan web sayfasının yapısı güncellendiği için web-scraping işlemi yapılamadığından veriler düzgün çekilemiyor. En kısa zamanda güncellenerek kullanıma tekrar sunulacaktır. 
+> [!CAUTION]
 > Öncelikle main.py dosyası çalıştırılmalı ardından sırası ile :
 > 1) Yeni bir dosya oluşturulup oluşturulmayacağı seçilmeli. [n/d]
 > 2) "Temel bilimler" menüsü altından istenilen bölüm seçilmeli. Ve ardından terminalden enter tuşuna basılmalı
@@ -14,5 +16,6 @@
 ### Can Arda Ceylan
 > [!CAUTION]
 > Copyright © 2026 Can Arda Ceylan. All Rights Reserved.
+> (Son Güncelleme : 13.11.2026 22.13)
 
 
